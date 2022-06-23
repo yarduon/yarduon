@@ -1,8 +1,5 @@
-Heya! 👋
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=j-alarcon.j-alarcon&left_color=#66ccff&right_color=#f0a85d)
-
-### Github Stats
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fj-alarcon%2Fj-alarcon&label=VIEWS&labelColor=%23292929&countColor=%23f0a85d)
 
 ![J-alarcon's GitHub stats](https://github-readme-stats.vercel.app/api?username=j-alarcon&hide=contribs,prs&title_color=f0a85dff&text_color=FFFFFF&border_color=f0a85dff&bg_color=292929ff&border_radius=0)
 
