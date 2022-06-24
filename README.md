@@ -1,10 +1,16 @@
-<img src="img/1920x800.png">
 <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fj-alarcon%2Fj-alarcon&label=VIEWS&labelColor=%23292929&countColor=%23f0a85d" align="right">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=d&color=F0F0F0&lines=Hey+there!+I'm+Javier+Alarc%C3%B3n;I'm+a+developer+and+a+creative;Let's+work+together!;Thank+you+for+your+visit)](https://git.io/typing-svg)
-</hr>
+<br>
+<br>
 
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam eu nulla faucibus libero iaculis ultricies. Donec dolor nulla, dapibus nec tortor vel, sodales eleifend ex. In fermentum, sem in imperdiet fringilla, diam felis tincidunt sapien, at molestie risus nisl tempor augue. Sed fermentum velit quis neque egestas. </p>
+<img src="img/1920x800.png">
+<img src="https://readme-typing-svg.herokuapp.com?font=Merriweather+Sans&size=50&duration=8000&color=FFFFFF&background=292929&center=true&vCenter=true&width=1920&height=200&lines=Hey+there!+%F0%9F%91%8B+I'm+Javier+Alarc%C3%B3n;I'm+a+developer+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB++and+a+creative+%F0%9F%A7%A0;Let's+work+together+%F0%9F%92%AA+and+make+the+world+%F0%9F%8C%8D+better!+;Thank+you+for+your+visit!+%F0%9F%A7%A1">
+
+<br>
+<br>
+<br>
+
+<p> </p>
 </br>
 
 <img src="./img/skills.png">
