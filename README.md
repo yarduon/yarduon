@@ -68,6 +68,10 @@
     </a>    
 </div>
 </br>
+<div align="center">
+    <img src="./img/icons/languages.svg">
+</div> 
+</br>
 
 <img src="./img/banners/projects.png">
 </br>
