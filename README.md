@@ -5,75 +5,71 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Merriweather+Sans&size=60&duration=8000&color=FFFFFF&background=292929&center=true&vCenter=true&width=1920&height=200&lines=Hey+there!+%F0%9F%91%8B+I'm+Javier+Alarc%C3%B3n;I'm+a+developer+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB++and+a+creative+%F0%9F%A7%A0;Let's+work+together+%F0%9F%92%AA+and+make+the+world+%F0%9F%8C%8D+better!+;Thank+you+for+your+visit!+%F0%9F%A7%A1">
 </a>
 
+</br>
 <p>I'm Javier Alarcón, from Canary Islands, Spain and I've been a Full-stack Junior Developer since 2020. I describe myself as creative, self-taught, decisive, positive, reliable and a dreamer. I love to create things for the world and improve our lives.</p>
 <p>I am currently studying a Certificate of Higher Education (CertHE) of Web Development at <a href="https://cifpcesarmanrique.es/">CIFP César Manrique</a>, and I am looking right now to study and work in Canada. I am developing <a href="https://github.com/j-alarcon/mathcard">Mathcard</a>, a beautiful calculator totally customizable.</p>
 
 <img src="./img/banners/skills.png">
 <div align="center">
-    <div>
-        <a href="#">
-            <img src="./img/icons/html.png">
-        </a>
-        <a href="#">
-            <img src="./img/icons/html.png">
-        </a>
-        <a href="#">
-            <img src="./img/icons/html.png">
-        </a>
-        <a href="#">
-            <img src="./img/icons/html.png">
-        </a>
-        <a href="#">
-            <img src="./img/icons/html.png">
-        </a>
-        <a href="#">
-            <img src="./img/icons/html.png">
-        </a>    
-    </div>
-    <div>
-        <a href="#">
-            <img src="./img/icons/html.png">
-        </a>
-        <a href="#">
-            <img src="./img/icons/html.png">
-        </a>
-        <a href="#">
-            <img src="./img/icons/html.png">
-        </a>
-        <a href="#">
-            <img src="./img/icons/html.png">
-        </a>
-        <a href="#">
-            <img src="./img/icons/html.png">
-        </a>
-        <a href="#">
-            <img src="./img/icons/html.png">
-        </a>    
-    </div>
-    <div>
-        <a href="#">
-            <img src="./img/icons/html.png">
-        </a>
-        <a href="#">
-            <img src="./img/icons/html.png">
-        </a>
-        <a href="#">
-            <img src="./img/icons/html.png">
-        </a>
-        <a href="#">
-            <img src="./img/icons/html.png">
-        </a>
-        <a href="#">
-            <img src="./img/icons/html.png">
-        </a>
-        <a href="#">
-            <img src="./img/icons/html.png">
-        </a>    
-    </div>
+    <a href="#">
+        <img src="./img/icons/html.png">
+    </a>
+    <a href="#">
+        <img src="./img/icons/html.png">
+    </a>
+    <a href="#">
+        <img src="./img/icons/html.png">
+    </a>
+    <a href="#">
+        <img src="./img/icons/html.png">
+    </a>
+    <a href="#">
+        <img src="./img/icons/html.png">
+    </a>
+    <a href="#">
+        <img src="./img/icons/html.png">
+    </a>    
+    <a href="#">
+        <img src="./img/icons/html.png">
+    </a>
+    <a href="#">
+        <img src="./img/icons/html.png">
+    </a>
+    <a href="#">
+        <img src="./img/icons/html.png">
+    </a>
+    <a href="#">
+        <img src="./img/icons/html.png">
+    </a>
+    <a href="#">
+        <img src="./img/icons/html.png">
+    </a>
+    <a href="#">
+        <img src="./img/icons/html.png">
+    </a>    
+    <a href="#">
+        <img src="./img/icons/html.png">
+    </a>
+    <a href="#">
+        <img src="./img/icons/html.png">
+    </a>
+    <a href="#">
+        <img src="./img/icons/html.png">
+    </a>
+    <a href="#">
+        <img src="./img/icons/html.png">
+    </a>
+    <a href="#">
+        <img src="./img/icons/html.png">
+    </a>
+    <a href="#">
+        <img src="./img/icons/html.png">
+    </a>    
 </div>
+</br>
 
 <img src="./img/banners/projects.png">
-<p>Gif</p>
+</br>
 
 <img src="./img/banners/stats.png">
 <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -86,5 +82,5 @@
     <img width="1920px" src="https://activity-graph.herokuapp.com/graph?username=j-alarcon&bg_color=292929ff&color=FFFFFF&line=f0a85dff&point=f0a85dff&hide_title=true&hide_border=true">
 </a>
 
-<img src="./img/banners/licence.png">
+<img src="./img/banners/license.png">
 <p>You are not allowed to modify, use my code or resources for your own projects without my consent, even if it's everything is public. If you do not follow the preceding, I might take legal actions against you.</p>
