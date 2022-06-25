@@ -15,55 +15,55 @@
         <img src="./img/icons/html.png">
     </a>
     <a href="#">
-        <img src="./img/icons/html.png">
+        <img src="./img/icons/css.png">
     </a>
     <a href="#">
-        <img src="./img/icons/html.png">
+        <img src="./img/icons/js.png">
     </a>
     <a href="#">
-        <img src="./img/icons/html.png">
+        <img src="./img/icons/node.png">
     </a>
     <a href="#">
-        <img src="./img/icons/html.png">
+        <img src="./img/icons/express.png">
     </a>
     <a href="#">
-        <img src="./img/icons/html.png">
+        <img src="./img/icons/react.png">
     </a>    
     <a href="#">
-        <img src="./img/icons/html.png">
+        <img src="./img/icons/mongodb.png">
     </a>
     <a href="#">
-        <img src="./img/icons/html.png">
+        <img src="./img/icons/sql.png">
     </a>
     <a href="#">
-        <img src="./img/icons/html.png">
+        <img src="./img/icons/git.png">
     </a>
     <a href="#">
-        <img src="./img/icons/html.png">
+        <img src="./img/icons/docker.png">
+    </a>
+      <a href="#">
+        <img src="./img/icons/filezilla.png">
     </a>
     <a href="#">
-        <img src="./img/icons/html.png">
+        <img src="./img/icons/vs.png">
     </a>
     <a href="#">
-        <img src="./img/icons/html.png">
+        <img src="./img/icons/windows.png">
     </a>    
     <a href="#">
-        <img src="./img/icons/html.png">
+        <img src="./img/icons/ubuntu.png">
     </a>
     <a href="#">
-        <img src="./img/icons/html.png">
+        <img src="./img/icons/office.png">
     </a>
     <a href="#">
-        <img src="./img/icons/html.png">
+        <img src="./img/icons/audacity.png">
     </a>
     <a href="#">
-        <img src="./img/icons/html.png">
+        <img src="./img/icons/inkscape.png">
     </a>
     <a href="#">
-        <img src="./img/icons/html.png">
-    </a>
-    <a href="#">
-        <img src="./img/icons/html.png">
+        <img src="./img/icons/gimp.png">
     </a>    
 </div>
 </br>
