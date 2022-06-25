@@ -1,14 +1,15 @@
-<img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fj-alarcon%2Fj-alarcon&label=VIEWS&labelColor=%23292929&countColor=%23f0a85d" align="right">
-
-<a href="https://www.linkedin.com/j-alarcon">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-<a href="https://www.gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-<a href="https://www.j-alarcon.github.io">
-    <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white">
-</a>
+<div>
+    <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fj-alarcon%2Fj-alarcon&label=VIEWS&labelColor=%23292929&countColor=%23f0a85d" align="right">
+    <a href="https://www.linkedin.com/j-alarcon">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    </a>
+    <a href="https://www.gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+    </a>
+    <a href="https://www.j-alarcon.github.io">
+        <img src="https://img.shields.io/badge/website-292929?style=for-the-badge&logo=firefox&logoColor=white">
+    </a>
+</div>
 
 </br>
 <img src="./img/banners/main.png">
