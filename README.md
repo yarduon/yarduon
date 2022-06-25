@@ -6,63 +6,64 @@
 </a>
 
 </br>
+</br>
 <p>I'm Javier Alarcón, from Canary Islands, Spain and I've been a Full-stack Junior Developer since 2020. I describe myself as creative, self-taught, decisive, positive, reliable and a dreamer. I love to create things for the world and improve our lives.</p>
 <p>I am currently studying a Certificate of Higher Education (CertHE) of Web Development at <a href="https://cifpcesarmanrique.es/">CIFP César Manrique</a>, and I am looking right now to study and work in Canada. I am developing <a href="https://github.com/j-alarcon/mathcard">Mathcard</a>, a beautiful calculator totally customizable.</p>
 
 <img src="./img/banners/skills.png">
 <div align="center">
-    <a href="#">
+    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
         <img src="./img/icons/html.png">
     </a>
-    <a href="#">
+    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
         <img src="./img/icons/css.png">
     </a>
-    <a href="#">
+    <a href="https://www.javascript.com/">
         <img src="./img/icons/js.png">
     </a>
-    <a href="#">
+    <a href="https://nodejs.org/en/">
         <img src="./img/icons/node.png">
     </a>
-    <a href="#">
+    <a href="https://expressjs.com/">
         <img src="./img/icons/express.png">
     </a>
-    <a href="#">
+    <a href="https://reactjs.org/">
         <img src="./img/icons/react.png">
     </a>    
-    <a href="#">
+    <a href="https://www.mongodb.com/">
         <img src="./img/icons/mongodb.png">
     </a>
-    <a href="#">
+    <a href="https://developer.mozilla.org/en-US/docs/Glossary/SQL">
         <img src="./img/icons/sql.png">
     </a>
-    <a href="#">
+    <a href="https://git-scm.com/">
         <img src="./img/icons/git.png">
     </a>
-    <a href="#">
+    <a href="https://www.docker.com/">
         <img src="./img/icons/docker.png">
     </a>
-      <a href="#">
+      <a href="https://filezilla-project.org/">
         <img src="./img/icons/filezilla.png">
     </a>
-    <a href="#">
+    <a href="https://visualstudio.microsoft.com/es/">
         <img src="./img/icons/vs.png">
     </a>
-    <a href="#">
+    <a href="https://www.microsoft.com/en-us/windows">
         <img src="./img/icons/windows.png">
     </a>    
-    <a href="#">
+    <a href="https://ubuntu.com/">
         <img src="./img/icons/ubuntu.png">
     </a>
-    <a href="#">
+    <a href="https://www.office.com/">
         <img src="./img/icons/office.png">
     </a>
-    <a href="#">
+    <a href="https://www.audacityteam.org/">
         <img src="./img/icons/audacity.png">
     </a>
-    <a href="#">
+    <a href="https://inkscape.org/">
         <img src="./img/icons/inkscape.png">
     </a>
-    <a href="#">
+    <a href="https://www.gimp.org/">
         <img src="./img/icons/gimp.png">
     </a>    
 </div>
@@ -81,6 +82,7 @@
 <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
     <img width="1920px" src="https://activity-graph.herokuapp.com/graph?username=j-alarcon&bg_color=292929ff&color=FFFFFF&line=f0a85dff&point=f0a85dff&hide_title=true&hide_border=true">
 </a>
+</br>
 
 <img src="./img/banners/license.png">
 <p>You are not allowed to modify, use my code or resources for your own projects without my consent, even if it's everything is public. If you do not follow the preceding, I might take legal actions against you.</p>
