@@ -1,4 +1,8 @@
 <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fj-alarcon%2Fj-alarcon&label=VIEWS&labelColor=%23292929&countColor=%23f0a85d" align="right">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/j-alarcon">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=https://www.gmail.com">
+<img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white&link=https://www.j-alarcon.github.io">
+
 </br>
 <img src="./img/banners/main.png">
 <a href="https://github.com/DenverCoder1/readme-typing-svg">
@@ -86,6 +90,7 @@
 <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
     <img width="1920px" src="https://activity-graph.herokuapp.com/graph?username=j-alarcon&bg_color=292929ff&color=FFFFFF&line=f0a85dff&point=f0a85dff&hide_title=true&hide_border=true">
 </a>
+</br>
 </br>
 
 <img src="./img/banners/license.png">
