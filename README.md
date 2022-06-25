@@ -9,10 +9,68 @@
 <p>I am currently studying a Certificate of Higher Education (CertHE) of Web Development at <a href="https://cifpcesarmanrique.es/">CIFP César Manrique</a>, and I am looking right now to study and work in Canada. I am developing <a href="https://github.com/j-alarcon/mathcard">Mathcard</a>, a beautiful calculator totally customizable.</p>
 
 <img src="./img/skills.png">
-<p>Icons</p>
-
-<img src="./img/contact.png">
-<p>Linkedin</p>
+<div align="center">
+    <div>
+        <a href="#">
+            <img src="./img/icons/html.png">
+        </a>
+        <a href="#">
+            <img src="./img/icons/html.png">
+        </a>
+        <a href="#">
+            <img src="./img/icons/html.png">
+        </a>
+        <a href="#">
+            <img src="./img/icons/html.png">
+        </a>
+        <a href="#">
+            <img src="./img/icons/html.png">
+        </a>
+        <a href="#">
+            <img src="./img/icons/html.png">
+        </a>    
+    </div>
+    <div>
+        <a href="#">
+            <img src="./img/icons/html.png">
+        </a>
+        <a href="#">
+            <img src="./img/icons/html.png">
+        </a>
+        <a href="#">
+            <img src="./img/icons/html.png">
+        </a>
+        <a href="#">
+            <img src="./img/icons/html.png">
+        </a>
+        <a href="#">
+            <img src="./img/icons/html.png">
+        </a>
+        <a href="#">
+            <img src="./img/icons/html.png">
+        </a>    
+    </div>
+    <div>
+        <a href="#">
+            <img src="./img/icons/html.png">
+        </a>
+        <a href="#">
+            <img src="./img/icons/html.png">
+        </a>
+        <a href="#">
+            <img src="./img/icons/html.png">
+        </a>
+        <a href="#">
+            <img src="./img/icons/html.png">
+        </a>
+        <a href="#">
+            <img src="./img/icons/html.png">
+        </a>
+        <a href="#">
+            <img src="./img/icons/html.png">
+        </a>    
+    </div>
+</div>
 
 <img src="./img/projects.png">
 <p>Gif</p>
