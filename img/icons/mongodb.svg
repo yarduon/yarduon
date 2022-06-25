@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="55"
+   height="52"
+   viewBox="0 0 14.552084 13.758334"
+   version="1.1"
+   id="svg9867"
+   inkscape:export-filename="../../../../j-alarcon/img/icons/mongodb.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   inkscape:version="1.2 (1:1.2+202206011327+fc4e4096c5)"
+   sodipodi:docname="mongodb.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview9869"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="11.516947"
+     inkscape:cx="20.534956"
+     inkscape:cy="24.051512"
+     inkscape:window-width="1920"
+     inkscape:window-height="949"
+     inkscape:window-x="1920"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     showguides="true">
+    <sodipodi:guide
+       position="0.1378982,6.5217155"
+       orientation="1,0"
+       id="guide31099"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="9.3961174,13.638705"
+       orientation="0,-1"
+       id="guide31101"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="14.414185,7.5325447"
+       orientation="1,0"
+       id="guide31103"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="10.475867,0.11963543"
+       orientation="0,-1"
+       id="guide31105"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <defs
+     id="defs9864" />
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g154233"
+       transform="matrix(1.3280591,0,0,1.3280591,156.80137,-179.16118)">
+      <rect
+         style="fill:#ffffff;fill-opacity:1;stroke:#292929;stroke-width:0.491175;stroke-opacity:1"
+         id="rect120393-1-7-3-6-2-2-6-0-1-69"
+         width="10.258561"
+         height="9.6883926"
+         x="-117.71864"
+         y="135.24019"
+         ry="1.3338249" />
+      <g
+         id="g153379"
+         transform="matrix(0.27332558,0,0,0.27332558,-116.96261,135.71096)">
+        <path
+           d="m 15.9,0.087 0.854,1.604 c 0.192,0.296 0.4,0.558 0.645,0.802 a 22.406,22.406 0 0 1 2.004,2.266 c 1.447,1.9 2.423,4.01 3.12,6.292 0.418,1.394 0.645,2.824 0.662,4.27 0.07,4.323 -1.412,8.035 -4.4,11.12 a 12.7,12.7 0 0 1 -1.57,1.342 c -0.296,0 -0.436,-0.227 -0.558,-0.436 a 3.589,3.589 0 0 1 -0.436,-1.255 c -0.105,-0.523 -0.174,-1.046 -0.14,-1.586 V 24.262 C 16.057,24.21 15.796,0.21 15.9,0.087 Z"
+           fill="#599636"
+           id="path152521" />
+        <path
+           d="m 15.9,0.034 c -0.035,-0.07 -0.07,-0.017 -0.105,0.017 0.017,0.35 -0.105,0.662 -0.296,0.96 -0.21,0.296 -0.488,0.523 -0.767,0.767 -1.55,1.342 -2.77,2.963 -3.747,4.776 -1.3,2.44 -1.97,5.055 -2.16,7.808 -0.087,0.993 0.314,4.497 0.627,5.508 0.854,2.684 2.388,4.933 4.375,6.885 0.488,0.47 1.01,0.906 1.55,1.325 0.157,0 0.174,-0.14 0.21,-0.244 a 4.78,4.78 0 0 0 0.157,-0.68 l 0.35,-2.614 z"
+           fill="#6cac48"
+           id="path152523" />
+        <path
+           d="m 16.754,28.845 c 0.035,-0.4 0.227,-0.732 0.436,-1.063 -0.21,-0.087 -0.366,-0.26 -0.488,-0.453 a 3.235,3.235 0 0 1 -0.26,-0.575 c -0.244,-0.732 -0.296,-1.5 -0.366,-2.248 v -0.453 c -0.087,0.07 -0.105,0.662 -0.105,0.75 a 17.37,17.37 0 0 1 -0.314,2.353 c -0.052,0.314 -0.087,0.627 -0.28,0.906 0,0.035 0,0.07 0.017,0.122 0.314,0.924 0.4,1.865 0.453,2.824 v 0.35 c 0,0.418 -0.017,0.33 0.33,0.47 0.14,0.052 0.296,0.07 0.436,0.174 0.105,0 0.122,-0.087 0.122,-0.157 L 16.683,31.27 v -1.604 c -0.017,-0.28 0.035,-0.558 0.07,-0.82 z"
+           fill="#c2bfbf"
+           id="path152525" />
+      </g>
+    </g>
+  </g>
+</svg>

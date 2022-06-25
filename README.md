@@ -13,58 +13,58 @@
 <img src="./img/banners/skills.png">
 <div align="center">
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-        <img src="./img/icons/html.png">
+        <img src="./img/icons/html.svg">
     </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-        <img src="./img/icons/css.png">
+        <img src="./img/icons/css.svg">
     </a>
     <a href="https://www.javascript.com/">
-        <img src="./img/icons/js.png">
+        <img src="./img/icons/js.svg">
     </a>
     <a href="https://nodejs.org/en/">
-        <img src="./img/icons/node.png">
+        <img src="./img/icons/node.svg">
     </a>
     <a href="https://expressjs.com/">
-        <img src="./img/icons/express.png">
+        <img src="./img/icons/express.svg">
     </a>
     <a href="https://reactjs.org/">
-        <img src="./img/icons/react.png">
+        <img src="./img/icons/react.svg">
     </a>    
     <a href="https://www.mongodb.com/">
-        <img src="./img/icons/mongodb.png">
+        <img src="./img/icons/mongodb.svg">
     </a>
     <a href="https://developer.mozilla.org/en-US/docs/Glossary/SQL">
-        <img src="./img/icons/sql.png">
+        <img src="./img/icons/sql.svg">
     </a>
     <a href="https://git-scm.com/">
-        <img src="./img/icons/git.png">
+        <img src="./img/icons/git.svg">
     </a>
     <a href="https://www.docker.com/">
-        <img src="./img/icons/docker.png">
+        <img src="./img/icons/docker.svg">
     </a>
       <a href="https://filezilla-project.org/">
-        <img src="./img/icons/filezilla.png">
+        <img src="./img/icons/filezilla.svg">
     </a>
     <a href="https://visualstudio.microsoft.com/es/">
-        <img src="./img/icons/vs.png">
+        <img src="./img/icons/vs.svg">
     </a>
     <a href="https://www.microsoft.com/en-us/windows">
-        <img src="./img/icons/windows.png">
+        <img src="./img/icons/windows.svg">
     </a>    
     <a href="https://ubuntu.com/">
-        <img src="./img/icons/ubuntu.png">
+        <img src="./img/icons/ubuntu.svg">
     </a>
     <a href="https://www.office.com/">
-        <img src="./img/icons/office.png">
+        <img src="./img/icons/office.svg">
     </a>
     <a href="https://www.audacityteam.org/">
-        <img src="./img/icons/audacity.png">
+        <img src="./img/icons/audacity.svg">
     </a>
     <a href="https://inkscape.org/">
-        <img src="./img/icons/inkscape.png">
+        <img src="./img/icons/inkscape.svg">
     </a>
     <a href="https://www.gimp.org/">
-        <img src="./img/icons/gimp.png">
+        <img src="./img/icons/gimp.svg">
     </a>    
 </div>
 </br>
