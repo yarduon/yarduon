@@ -8,7 +8,7 @@
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
     </a>
     &nbsp;
-    <a href="https://www.j-alarcon.github.io">
+    <a href="https://j-alarcon.github.io/">
         <img src="https://img.shields.io/badge/website-292929?style=for-the-badge&logo=firefox&logoColor=white">
     </a>
 </div>
