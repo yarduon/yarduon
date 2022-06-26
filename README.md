@@ -92,6 +92,10 @@
     <img src="./img/banners/beefriends.png">
 </a>
 <p align="center">Simple pretty landing page about bees</p>
+<a href="https://github.com/j-alarcon/reactions">
+    <img src="./img/banners/reactions.png">
+</a>
+<p align="center">Strategic game in which you can combine elements to generate differents reactions </p>
 </br>
 
 <img src="./img/banners/stats.png">
