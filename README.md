@@ -11,6 +11,10 @@
     <a href="https://j-alarcon.github.io/">
         <img src="https://img.shields.io/badge/website-292929?style=for-the-badge&logo=firefox&logoColor=white">
     </a>
+    &nbsp;
+    <a href="https://ko-fi.com/j_alarcon">
+        <img src="https://img.shields.io/badge/support me-F16061?style=for-the-badge&logo=ko-fi&logoColor=white">
+    </a>
 </div>
 
 </br>
