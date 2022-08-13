@@ -93,11 +93,11 @@
 </br>
 
 <img src="./img/banners/projects.png">
+</br>
 <a href="https://github.com/j-alarcon/reoneo">
     <img src="./img/banners/reoneo.png">
 </a>
 <p align="center">Colorful counter to quantify scores of different teams with a timer</p>
-</br>
 <a href="https://github.com/j-alarcon/beefriends">
     <img src="./img/banners/beefriends.png">
 </a>
