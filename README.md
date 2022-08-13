@@ -93,6 +93,11 @@
 </br>
 
 <img src="./img/banners/projects.png">
+<a href="https://github.com/j-alarcon/reoneo">
+    <img src="./img/banners/reoneo.png">
+</a>
+<p align="center">Colorful counter to quantify scores of different teams with a timer</p>
+</br>
 <a href="https://github.com/j-alarcon/beefriends">
     <img src="./img/banners/beefriends.png">
 </a>
@@ -100,7 +105,7 @@
 <a href="https://github.com/j-alarcon/reactions">
     <img src="./img/banners/reactions.png">
 </a>
-<p align="center">Strategic game in which you can combine elements to generate differents reactions </p>
+<p align="center">Strategic game in which you can combine elements to generate differents reactions</p>
 </br>
 
 <img src="./img/banners/stats.png">
