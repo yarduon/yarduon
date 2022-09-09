@@ -106,6 +106,10 @@
     <img src="./img/banners/resmos.png">
 </a>
 <p align="center">Strategic game in which you can combine elements to generate differents reactions</p>
+<a href="https://github.com/j-alarcon/mathcard">
+    <img src="./img/banners/mathcard.png">
+</a>
+<p align="center">Beautiful calculator totally customizable</p>
 </br>
 
 <img src="./img/banners/stats.png">
