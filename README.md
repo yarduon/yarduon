@@ -1,5 +1,5 @@
 <div>
-    <a href="https://www.linkedin.com/in/j-alarcon/">
+    <a href="https://www.linkedin.com/in/yarduon">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
     </a>
     &nbsp;
@@ -7,21 +7,21 @@
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
     </a>
     &nbsp;
-    <a href="https://j-alarcon.github.io/">
+    <a href="https://www.yarduon.com">
         <img src="https://img.shields.io/badge/website-292929?style=for-the-badge&logo=firefox&logoColor=white">
     </a>
     &nbsp;
-    <a href="https://ko-fi.com/j_alarcon">
+    <a href="https://ko-fi.com/yarduon">
         <img src="https://img.shields.io/badge/support me-F16061?style=for-the-badge&logo=ko-fi&logoColor=white">
     </a>
     &nbsp;
-    <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fj-alarcon%2Fj-alarcon&label=VIEWS&labelColor=%23292929&countColor=%23f0a85d">
+    <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fyarduon%2Fyarduon&label=VIEWS&labelColor=%23292929&countColor=%23f0a85d">
 </div>
 
 </br>
 <img src="./img/banners/main.png">
 <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Merriweather+Sans&size=60&duration=8000&color=FFFFFF&background=292929&center=true&vCenter=true&width=1920&height=200&lines=Hey+there!+%F0%9F%91%8B+I'm+Javier+Alarc%C3%B3n;I'm+a+developer+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB++and+a+creative+%F0%9F%A7%A0;Let's+work+together+%F0%9F%92%AA+and+make+the+world+%F0%9F%8C%8D+better!+;Thank+you+for+your+visit!+%F0%9F%A7%A1">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Merriweather+Sans&size=60&duration=8000&color=FFFFFF&background=292929&center=true&vCenter=true&width=1920&height=200&lines=Hey+there!+%F0%9F%91%8B+I'm+Yarduon;I'm+a+developer+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB++and+a+creative+%F0%9F%A7%A0;Let's+work+together+%F0%9F%92%AA+and+make+the+world+%F0%9F%8C%8D+better!+;Thank+you+for+your+visit!+%F0%9F%A7%A1">
 </a>
 
 </br>
@@ -94,19 +94,19 @@
 
 <img src="./img/banners/projects.png">
 </br>
-<a href="https://github.com/j-alarcon/reoneo">
+<a href="https://github.com/yarduon/reoneo">
     <img src="./img/banners/reoneo.png">
 </a>
 <p align="center">Colorful counter to quantify scores of different teams with a timer</p>
-<a href="https://github.com/j-alarcon/beefriends">
+<a href="https://github.com/yarduon/beefriends">
     <img src="./img/banners/beefriends.png">
 </a>
 <p align="center">Simple pretty landing page about bees</p>
-<a href="https://github.com/j-alarcon/resmos">
+<a href="https://github.com/yarduon/resmos">
     <img src="./img/banners/resmos.png">
 </a>
 <p align="center">Strategic game in which you can combine elements to generate differents reactions</p>
-<a href="https://github.com/j-alarcon/mathcard">
+<a href="https://github.com/yarduon/mathcard">
     <img src="./img/banners/mathcard.png">
 </a>
 <p align="center">Beautiful calculator totally customizable</p>
@@ -114,13 +114,13 @@
 
 <img src="./img/banners/stats.png">
 <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img width="1920px" src="https://github-readme-stats.vercel.app/api?username=j-alarcon&hide=contribs,prs&title_color=f0a85dff&text_color=FFFFFF&hide_border=true&bg_color=292929ff&include_all_commits=true&border_radius=0">
+    <img width="1920px" src="https://github-readme-stats.vercel.app/api?username=yarduon&hide=contribs,prs&title_color=f0a85dff&text_color=FFFFFF&hide_border=true&bg_color=292929ff&include_all_commits=true&border_radius=0">
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats"> 
-    <img width="1920px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=j-alarcon&layout=compact&title_color=f0a85dff&text_color=FFFFFF&hide_border=true&bg_color=292929ff&border_radius=0">
+    <img width="1920px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yarduon&layout=compact&title_color=f0a85dff&text_color=FFFFFF&hide_border=true&bg_color=292929ff&border_radius=0">
 </a>
 <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
-    <img width="1920px" src="https://activity-graph.herokuapp.com/graph?username=j-alarcon&bg_color=292929ff&color=FFFFFF&line=f0a85dff&point=f0a85dff&hide_title=true&hide_border=true">
+    <img width="1920px" src="https://activity-graph.herokuapp.com/graph?username=yarduon&bg_color=292929ff&color=FFFFFF&line=f0a85dff&point=f0a85dff&hide_title=true&hide_border=true">
 </a>
 </br>
 </br>
