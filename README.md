@@ -39,7 +39,7 @@
 </br>
 </br>
 <p>I'm Yarduon, from Canary Islands, Spain and I've been a Full-stack Junior Developer since 2020. I describe myself as creative, self-taught, decisive, positive, reliable and a dreamer. I love to create things for the world and improve our lives.</p>
-<p>I am currently studying a Certificate of Higher Education (CertHE) of Web Development at <a href="https://cifpcesarmanrique.es/">CIFP César Manrique</a>, and I am looking right now to study and work in Canada. I am developing <a href="https://github.com/j-alarcon/mathcard">Mathcard</a>, a beautiful calculator totally customizable.</p>
+<p>I am currently studying a Certificate of Higher Education (CertHE) of Web Development, and I am looking right now to study and work abroad. I am developing <a href="https://github.com/j-alarcon/mathcard">Mathcard</a>, a beautiful calculator totally customizable.</p>
 
 <img src="./img/banners/skills.png">
 <div align="center">
