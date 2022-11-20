@@ -121,7 +121,7 @@
 <a href="https://github.com/yarduon/mathcard">
     <img src="./img/banners/mathcard.png">
 </a>
-<p align="center">Beautiful calculator totally customizable</p>
+<p align="center">Beautiful pseudo-scientific calculator totally customizable</p>
 </br>
 
 <img src="./img/banners/stats.png">
