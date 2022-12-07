@@ -132,7 +132,7 @@
     <img width="1920px" src="https://github-readme-stats-hv0tsq6kh-yarduon.vercel.app/api/top-langs/?username=yarduon&layout=compact&title_color=f0a85dff&text_color=FFFFFF&hide_border=true&bg_color=292929ff&border_radius=0">
 </a>
 <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
-    <img width="1920px" src="https://activity-graph.herokuapp.com/graph?username=yarduon&bg_color=292929ff&color=FFFFFF&line=f0a85dff&point=f0a85dff&hide_title=true&hide_border=true">
+    <img width="1920px" src="https://github-readme-activity-graph.cyclic.app/graph?username=yarduon&bg_color=292929ff&color=FFFFFF&line=f0a85dff&point=f0a85dff&hide_title=true&hide_border=true">
 </a>
 </br>
 </br>
