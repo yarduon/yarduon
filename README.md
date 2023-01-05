@@ -139,4 +139,3 @@
 
 <img src="./img/banners/license.png">
 <p>You are not allowed to modify, use my code or resources for your own projects without my consent, even if it's everything is public. If you do not follow the preceding, I might take legal actions against you.</p>
-github-readme-stats-red-omega.vercel.app
