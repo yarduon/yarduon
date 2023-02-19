@@ -38,8 +38,9 @@
 
 </br>
 </br>
-<p>I'm Yarduon, from Canary Islands, Spain and I've been a Full-stack Junior Developer since 2020. I consider myself to be creative, self-educated, collaborative, flexible, driven, and resourceful. I have a passion for generating solutions that enhance our world and improve our quality of life.</p>
-<p>I am currently creating cool things for my portfolio, and I am looking right now for an internship. I am developing <a href="https://github.com/yarduon/mathcard">Mathcard</a>, a beautiful pseudo-scientific calculator totally customizable.</p>
+
+<p>I'm Yarduon, from Canary Islands, Spain and I've been a Full-stack Junior Developer since 2020. I describe myself as creative, self-educated, collaborative, flexible, driven, and resourceful. I have a passion for generating solutions that enhance our world and improve our quality of life.</p>
+<p>My current focus is developing exciting new projects for my portfolio, and I'm also actively searching for an internship opportunity. I am currently developing <a href="https://github.com/yarduon/mathcard">Mathcard</a>, a beautiful pseudo-scientific calculator totally customizable.</p>
 
 <img src="./img/banners/skills.png">
 <div align="center">
