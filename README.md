@@ -135,8 +135,6 @@
 <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
     <img width="1920px" alt="Most used languages" src="https://github-readme-activity-graph.cyclic.app/graph?username=yarduon&bg_color=292929ff&color=FFFFFF&line=f0a85dff&point=f0a85dff&hide_title=true&hide_border=true">
 </a>
-
-<p>&nbsp;<img align="center" alt="Activity graph" src="https://github-readme-stats.vercel.app/api?username=yarduon&show_icons=true&locale=en" alt="yarduon" /></p>
 </br>
 </br>
 
