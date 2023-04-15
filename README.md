@@ -39,8 +39,8 @@
 </br>
 </br>
 
-<p>I'm Yarduon, from Canary Islands, Spain and I've been a developer since 2020. I describe myself as creative, self-educated, collaborative, flexible, driven, and resourceful. I have a passion for generating solutions that enhance the world and improve our quality of life.</p>
-<p>My current focus is to create exciting new projects for my portfolio, and I'm also actively looking for new adventures. I am currently developing <a href="https://github.com/yarduon/mathcard">Mathcard</a>, a beautiful pseudo-scientific calculator totally customizable.</p>
+<p align="justify">I'm Yarduon, from Canary Islands, Spain and I've been a developer since 2020. I describe myself as creative, self-educated, collaborative, flexible, driven, and resourceful. I have a passion for generating solutions that enhance the world and improve our quality of life.</p>
+<p align="justify">My current focus is to create exciting new projects for my portfolio, and I'm also actively looking for new adventures. I am currently developing <a href="https://github.com/yarduon/mathcard">Mathcard</a>, a beautiful pseudo-scientific calculator totally customizable.</p>
 
 <img src="./img/banners/skills.png">
 <div align="center">
@@ -139,4 +139,4 @@
 </br>
 
 <img src="./img/banners/license.png">
-<p>You are not allowed to modify, use my code or resources for your own projects without my consent, even if it's everything is public. If you do not follow the preceding, I might take legal actions against you.</p>
+<p align="justify">You are not allowed to modify, use my code or resources for your own projects without my consent, even if it's everything is public. If you do not follow the preceding, I might take legal actions against you.</p>
