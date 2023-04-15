@@ -33,7 +33,7 @@
 </br>
 <img src="./img/banners/main.png">
 <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Merriweather+Sans&size=60&duration=8000&color=FFFFFF&background=292929&center=true&vCenter=true&width=1920&height=200&lines=Hey+there!+%F0%9F%91%8B+I'm+Yarduon;I'm+a+developer+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB++and+a+creative+%F0%9F%A7%A0;Let's+work+together+%F0%9F%92%AA+and+make+the+world+%F0%9F%8C%8D+better!+;Thank+you+for+your+visit!+%F0%9F%A7%A1">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Merriweather+Sans&size=60&duration=9000&color=FFFFFF&background=292929&center=true&vCenter=true&width=1920&height=200&lines=I'm+a+developer++and+a+creative;Always+learning+and+striving+for+goals;Let's+work+together++and+make+the+world+better!+;Thank+you+for+your+visit!">
 </a>
 
 </br>
