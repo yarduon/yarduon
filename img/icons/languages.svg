@@ -28,8 +28,8 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="1.4142136"
-     inkscape:cx="193.74726"
-     inkscape:cy="7.0710678"
+     inkscape:cx="323.8549"
+     inkscape:cy="5.6568542"
      inkscape:window-width="1920"
      inkscape:window-height="949"
      inkscape:window-x="1920"
@@ -60,7 +60,7 @@
        transform="matrix(0.79507463,0,0,0.79507463,-30.155197,-22.413408)"><tspan
          x="41.807613"
          y="35.674755"
-         id="tspan2523">Spanish</tspan></text>
+         id="tspan7662">Spanish</tspan></text>
     <rect
        style="fill:#ffffff;stroke:#292929;stroke-width:0.698477;stroke-dasharray:none;stroke-opacity:1"
        id="rect21517-2-06-0-1-1"
@@ -103,34 +103,38 @@
        ry="1.2979334e-06" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.254px;font-family:Alatsi;-inkscape-font-specification:Alatsi;white-space:pre;inline-size:104.55;display:inline;fill:#292929;fill-opacity:1;stroke-width:0.597001"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.254px;font-family:Samanata;-inkscape-font-specification:Samanata;white-space:pre;inline-size:104.55;display:inline;fill:#292929;fill-opacity:1;stroke-width:0.597001"
        x="41.807613"
        y="35.674755"
        id="text32181-7-3-3-1-3-3-0-1-8-6-3-7"
-       transform="matrix(0.56424147,0,0,0.56424147,5.7127812,-13.270449)"><tspan
+       transform="matrix(0.56424147,0,0,0.56424147,5.1317592,-13.197689)"><tspan
          x="41.807613"
          y="35.674755"
-         id="tspan2525">C2</tspan></text>
+         id="tspan7666"><tspan
+           style="font-family:'Reem Kufi';-inkscape-font-specification:'Reem Kufi'"
+           id="tspan7664">C2</tspan></tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.254px;font-family:Alatsi;-inkscape-font-specification:Alatsi;white-space:pre;inline-size:104.55;display:inline;fill:#292929;fill-opacity:1;stroke-width:0.597001"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.254px;font-family:'Reem Kufi';-inkscape-font-specification:'Reem Kufi';white-space:pre;inline-size:104.55;display:inline;fill:#292929;fill-opacity:1;stroke-width:0.597001"
        x="41.807613"
        y="35.674755"
        id="text32181-7-3-3-1-3-3-0-1-8-6-3-7-7"
-       transform="matrix(0.56424147,0,0,0.56424147,48.3656,-13.231739)"><tspan
+       transform="matrix(0.56424147,0,0,0.56424147,48.146525,-13.196814)"><tspan
          x="41.807613"
          y="35.674755"
-         id="tspan2527">B2</tspan></text>
+         id="tspan7668">B2</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.254px;font-family:Alatsi;-inkscape-font-specification:Alatsi;white-space:pre;inline-size:104.55;display:inline;fill:#292929;fill-opacity:1;stroke-width:0.597001"
        x="41.807613"
        y="35.674755"
        id="text32181-7-3-3-1-3-3-0-1-8-6-3-7-7-3"
-       transform="matrix(0.56424147,0,0,0.56424147,91.390412,-13.231726)"><tspan
+       transform="matrix(0.56424147,0,0,0.56424147,90.841142,-13.101552)"><tspan
          x="41.807613"
          y="35.674755"
-         id="tspan2529">A2</tspan></text>
+         id="tspan7672"><tspan
+           style="font-family:'Reem Kufi';-inkscape-font-specification:'Reem Kufi'"
+           id="tspan7670">A2</tspan></tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.76815px;font-family:'Reem Kufi';-inkscape-font-specification:'Reem Kufi';white-space:pre;inline-size:104.55;display:inline;fill:#ffffff;fill-opacity:1;stroke-width:0.597001"
@@ -140,7 +144,7 @@
        transform="matrix(0.79507463,0,0,0.79507463,13.226458,-22.429459)"><tspan
          x="41.807613"
          y="35.674755"
-         id="tspan2531">English</tspan></text>
+         id="tspan7674">English</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.76815px;font-family:'Reem Kufi';-inkscape-font-specification:'Reem Kufi';white-space:pre;inline-size:104.55;display:inline;fill:#ffffff;fill-opacity:1;stroke-width:0.597001"
@@ -150,6 +154,6 @@
        transform="matrix(0.79507463,0,0,0.79507463,56.547839,-22.430907)"><tspan
          x="41.807613"
          y="35.674755"
-         id="tspan2533">French</tspan></text>
+         id="tspan7676">French</tspan></text>
   </g>
 </svg>
