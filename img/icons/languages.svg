@@ -27,9 +27,9 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="2"
-     inkscape:cx="223"
-     inkscape:cy="90"
+     inkscape:zoom="2.8284271"
+     inkscape:cx="239.7092"
+     inkscape:cy="16.970563"
      inkscape:window-width="1920"
      inkscape:window-height="949"
      inkscape:window-x="1920"
@@ -60,9 +60,9 @@
        transform="matrix(0.79507463,0,0,0.79507463,-30.283602,-22.411115)"><tspan
          x="41.807613"
          y="35.674755"
-         id="tspan7830"><tspan
+         id="tspan1497"><tspan
            style="font-weight:500;-inkscape-font-specification:'Reem Kufi Medium'"
-           id="tspan7828">Spanish</tspan></tspan></text>
+           id="tspan1495">Spanish</tspan></tspan></text>
     <rect
        style="fill:#ffffff;stroke:#292929;stroke-width:0.698477;stroke-dasharray:none;stroke-opacity:1"
        id="rect21517-2-06-0-1-1"
@@ -109,32 +109,32 @@
        x="41.807613"
        y="35.674755"
        id="text32181-7-3-3-1-3-3-0-1-8-6-3-7"
-       transform="matrix(0.56424147,0,0,0.56424147,5.1317592,-13.197689)"><tspan
+       transform="matrix(0.56424147,0,0,0.56424147,5.3476586,-13.340298)"><tspan
          x="41.807613"
          y="35.674755"
-         id="tspan7832">C2</tspan></text>
+         id="tspan1501"><tspan
+           style="font-family:Alkatra;-inkscape-font-specification:Alkatra"
+           id="tspan1499">C2</tspan></tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.254px;font-family:'Reem Kufi';-inkscape-font-specification:'Reem Kufi';white-space:pre;inline-size:104.55;display:inline;fill:#292929;fill-opacity:1;stroke-width:0.597001"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.254px;font-family:Alkatra;-inkscape-font-specification:Alkatra;white-space:pre;inline-size:104.55;display:inline;fill:#292929;fill-opacity:1;stroke-width:0.597001"
        x="41.807613"
        y="35.674755"
        id="text32181-7-3-3-1-3-3-0-1-8-6-3-7-7"
-       transform="matrix(0.56424147,0,0,0.56424147,48.146525,-13.196814)"><tspan
+       transform="matrix(0.56424147,0,0,0.56424147,48.327497,-13.320638)"><tspan
          x="41.807613"
          y="35.674755"
-         id="tspan7834">B2</tspan></text>
+         id="tspan1503">B2</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.254px;font-family:Alatsi;-inkscape-font-specification:Alatsi;white-space:pre;inline-size:104.55;display:inline;fill:#292929;fill-opacity:1;stroke-width:0.597001"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.254px;font-family:Alkatra;-inkscape-font-specification:Alkatra;white-space:pre;inline-size:104.55;display:inline;fill:#292929;fill-opacity:1;stroke-width:0.597001"
        x="41.807613"
        y="35.674755"
        id="text32181-7-3-3-1-3-3-0-1-8-6-3-7-7-3"
-       transform="matrix(0.56424147,0,0,0.56424147,90.841142,-13.101552)"><tspan
+       transform="matrix(0.56424147,0,0,0.56424147,90.996714,-13.333326)"><tspan
          x="41.807613"
          y="35.674755"
-         id="tspan7838"><tspan
-           style="font-family:'Reem Kufi';-inkscape-font-specification:'Reem Kufi'"
-           id="tspan7836">A2</tspan></tspan></text>
+         id="tspan1505">A2</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.76815px;font-family:'Reem Kufi';-inkscape-font-specification:'Reem Kufi';white-space:pre;inline-size:104.55;display:inline;fill:#ffffff;fill-opacity:1;stroke-width:0.597001"
@@ -144,9 +144,9 @@
        transform="matrix(0.79507463,0,0,0.79507463,13.082,-22.428818)"><tspan
          x="41.807613"
          y="35.674755"
-         id="tspan7842"><tspan
+         id="tspan1509"><tspan
            style="font-weight:500;-inkscape-font-specification:'Reem Kufi Medium'"
-           id="tspan7840">English</tspan></tspan></text>
+           id="tspan1507">English</tspan></tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.76815px;font-family:'Reem Kufi';-inkscape-font-specification:'Reem Kufi';white-space:pre;inline-size:104.55;display:inline;fill:#ffffff;fill-opacity:1;stroke-width:0.597001"
@@ -156,8 +156,8 @@
        transform="matrix(0.79507463,0,0,0.79507463,56.420958,-22.430907)"><tspan
          x="41.807613"
          y="35.674755"
-         id="tspan7846"><tspan
+         id="tspan1513"><tspan
            style="font-weight:500;-inkscape-font-specification:'Reem Kufi Medium'"
-           id="tspan7844">French</tspan></tspan></text>
+           id="tspan1511">French</tspan></tspan></text>
   </g>
 </svg>
