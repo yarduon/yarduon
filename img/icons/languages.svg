@@ -27,9 +27,9 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="1"
-     inkscape:cx="136"
-     inkscape:cy="60"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="193.74726"
+     inkscape:cy="7.0710678"
      inkscape:window-width="1920"
      inkscape:window-height="949"
      inkscape:window-x="1920"
@@ -60,7 +60,7 @@
        transform="matrix(0.79507463,0,0,0.79507463,-30.155197,-22.413408)"><tspan
          x="41.807613"
          y="35.674755"
-         id="tspan2411">Spanish</tspan></text>
+         id="tspan2523">Spanish</tspan></text>
     <rect
        style="fill:#ffffff;stroke:#292929;stroke-width:0.698477;stroke-dasharray:none;stroke-opacity:1"
        id="rect21517-2-06-0-1-1"
@@ -103,53 +103,53 @@
        ry="1.2979334e-06" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.12112px;font-family:'Reem Kufi';-inkscape-font-specification:'Reem Kufi';white-space:pre;inline-size:104.55;display:inline;fill:#292929;fill-opacity:1;stroke-width:0.597001"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.254px;font-family:Alatsi;-inkscape-font-specification:Alatsi;white-space:pre;inline-size:104.55;display:inline;fill:#292929;fill-opacity:1;stroke-width:0.597001"
        x="41.807613"
        y="35.674755"
        id="text32181-7-3-3-1-3-3-0-1-8-6-3-7"
-       transform="matrix(0.89552863,0,0,0.89552863,-11.916531,-25.659999)"><tspan
+       transform="matrix(0.56424147,0,0,0.56424147,5.7127812,-13.270449)"><tspan
          x="41.807613"
          y="35.674755"
-         id="tspan2413">Native</tspan></text>
+         id="tspan2525">C2</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.254px;font-family:Alatsi;-inkscape-font-specification:Alatsi;white-space:pre;inline-size:104.55;display:inline;fill:#292929;fill-opacity:1;stroke-width:0.597001"
+       x="41.807613"
+       y="35.674755"
+       id="text32181-7-3-3-1-3-3-0-1-8-6-3-7-7"
+       transform="matrix(0.56424147,0,0,0.56424147,48.3656,-13.231739)"><tspan
+         x="41.807613"
+         y="35.674755"
+         id="tspan2527">B2</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.254px;font-family:Alatsi;-inkscape-font-specification:Alatsi;white-space:pre;inline-size:104.55;display:inline;fill:#292929;fill-opacity:1;stroke-width:0.597001"
+       x="41.807613"
+       y="35.674755"
+       id="text32181-7-3-3-1-3-3-0-1-8-6-3-7-7-3"
+       transform="matrix(0.56424147,0,0,0.56424147,91.390412,-13.231726)"><tspan
+         x="41.807613"
+         y="35.674755"
+         id="tspan2529">A2</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.76815px;font-family:'Reem Kufi';-inkscape-font-specification:'Reem Kufi';white-space:pre;inline-size:104.55;display:inline;fill:#ffffff;fill-opacity:1;stroke-width:0.597001"
        x="41.807613"
        y="35.674755"
        id="text32181-7-3-3-1-3-3-0-1-8-6-3-7-4"
-       transform="matrix(0.79507463,0,0,0.79507463,13.226458,-22.428818)"><tspan
+       transform="matrix(0.79507463,0,0,0.79507463,13.226458,-22.429459)"><tspan
          x="41.807613"
          y="35.674755"
-         id="tspan2415">English</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.21186px;font-family:'Reem Kufi';-inkscape-font-specification:'Reem Kufi';white-space:pre;inline-size:104.55;display:inline;fill:#292929;fill-opacity:1;stroke-width:0.597001"
-       x="41.807613"
-       y="35.674755"
-       id="text32181-7-3-3-1-3-3-0-1-8-6-3-7-4-5"
-       transform="matrix(0.79507463,0,0,0.79507463,40.052603,-21.943247)"><tspan
-         x="41.807613"
-         y="35.674755"
-         id="tspan2417">B1</tspan></text>
+         id="tspan2531">English</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.76815px;font-family:'Reem Kufi';-inkscape-font-specification:'Reem Kufi';white-space:pre;inline-size:104.55;display:inline;fill:#ffffff;fill-opacity:1;stroke-width:0.597001"
        x="41.807613"
        y="35.674755"
        id="text32181-7-3-3-1-3-3-0-1-8-6-3-7-4-2"
-       transform="matrix(0.79507463,0,0,0.79507463,56.547839,-22.404894)"><tspan
+       transform="matrix(0.79507463,0,0,0.79507463,56.547839,-22.430907)"><tspan
          x="41.807613"
          y="35.674755"
-         id="tspan2419">French</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.21186px;font-family:'Reem Kufi';-inkscape-font-specification:'Reem Kufi';white-space:pre;inline-size:104.55;display:inline;fill:#292929;fill-opacity:1;stroke-width:0.597001"
-       x="41.807613"
-       y="35.674755"
-       id="text32181-7-3-3-1-3-3-0-1-8-6-3-7-4-54"
-       transform="matrix(0.79507463,0,0,0.79507463,82.062124,-21.869151)"><tspan
-         x="41.807613"
-         y="35.674755"
-         id="tspan2421">A2</tspan></text>
+         id="tspan2533">French</tspan></text>
   </g>
 </svg>
