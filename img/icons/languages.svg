@@ -27,135 +27,129 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="0.71980925"
-     inkscape:cx="407.05229"
-     inkscape:cy="9.7247986"
+     inkscape:zoom="1"
+     inkscape:cx="136"
+     inkscape:cy="60"
      inkscape:window-width="1920"
      inkscape:window-height="949"
      inkscape:window-x="1920"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1" />
+     inkscape:current-layer="layer1"
+     showguides="true" />
   <defs
      id="defs7861" />
   <g
      inkscape:label="Capa 1"
      inkscape:groupmode="layer"
      id="layer1">
-    <g
-       id="g6851">
-      <rect
-         style="fill:#292929;fill-opacity:1;stroke:none;stroke-width:0.832194;stroke-dasharray:none;stroke-opacity:1"
-         id="rect21517-1-36-4"
-         width="21.745777"
-         height="8.8060675"
-         x="0.30578768"
-         y="0.22685169"
-         ry="1.4099753e-06" />
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:'Reem Kufi';-inkscape-font-specification:'Reem Kufi';white-space:pre;inline-size:104.55;display:inline;fill:#ffffff;fill-opacity:1;stroke-width:0.597001"
+    <rect
+       style="fill:#292929;fill-opacity:1;stroke:none;stroke-width:0.832194;stroke-dasharray:none;stroke-opacity:1"
+       id="rect21517-1-36-4"
+       width="21.745777"
+       height="8.8060675"
+       x="0.30578768"
+       y="0.22685169"
+       ry="1.4099753e-06" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.76815px;font-family:'Reem Kufi';-inkscape-font-specification:'Reem Kufi';white-space:pre;inline-size:104.55;display:inline;fill:#ffffff;fill-opacity:1;stroke-width:0.597001"
+       x="41.807613"
+       y="35.674755"
+       id="text32181-7-3-3-1-3-3-0-1-8-6-3"
+       transform="matrix(0.79507463,0,0,0.79507463,-30.155197,-22.413408)"><tspan
          x="41.807613"
          y="35.674755"
-         id="text32181-7-3-3-1-3-3-0-1-8"
-         transform="matrix(0.79507463,0,0,0.79507463,-29.981595,-22.441735)"><tspan
-           x="41.807613"
-           y="35.674755"
-           id="tspan1328">Spanish</tspan></text>
-      <rect
-         style="fill:#ffffff;stroke:#292929;stroke-width:0.698477;stroke-dasharray:none;stroke-opacity:1"
-         id="rect21517-2-06-0-1-1"
-         width="21.279036"
-         height="8.1063023"
-         x="22.078585"
-         y="0.57673573"
-         ry="1.2979334e-06" />
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:Chilanka;-inkscape-font-specification:Chilanka;white-space:pre;inline-size:104.55;display:inline;fill:#292929;fill-opacity:1;stroke-width:0.597001"
+         id="tspan2411">Spanish</tspan></text>
+    <rect
+       style="fill:#ffffff;stroke:#292929;stroke-width:0.698477;stroke-dasharray:none;stroke-opacity:1"
+       id="rect21517-2-06-0-1-1"
+       width="21.279036"
+       height="8.1063023"
+       x="22.078585"
+       y="0.57673573"
+       ry="1.2979334e-06" />
+    <rect
+       style="fill:#292929;fill-opacity:1;stroke:none;stroke-width:0.832194;stroke-dasharray:none;stroke-opacity:1"
+       id="rect21517-1-36-4-3"
+       width="21.745777"
+       height="8.8060675"
+       x="43.237999"
+       y="0.22749256"
+       ry="1.4099753e-06" />
+    <rect
+       style="fill:#ffffff;stroke:#292929;stroke-width:0.698477;stroke-dasharray:none;stroke-opacity:1"
+       id="rect21517-2-06-0-1-1-8"
+       width="21.279036"
+       height="8.1063023"
+       x="65.010803"
+       y="0.57734609"
+       ry="1.2979334e-06" />
+    <rect
+       style="fill:#292929;fill-opacity:1;stroke:none;stroke-width:0.832194;stroke-dasharray:none;stroke-opacity:1"
+       id="rect21517-1-36-4-3-0"
+       width="21.745777"
+       height="8.8060675"
+       x="85.940254"
+       y="0.22618876"
+       ry="1.4099753e-06" />
+    <rect
+       style="fill:#ffffff;stroke:#292929;stroke-width:0.698477;stroke-dasharray:none;stroke-opacity:1"
+       id="rect21517-2-06-0-1-1-8-1"
+       width="21.279036"
+       height="8.1063023"
+       x="107.71177"
+       y="0.57735842"
+       ry="1.2979334e-06" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.12112px;font-family:'Reem Kufi';-inkscape-font-specification:'Reem Kufi';white-space:pre;inline-size:104.55;display:inline;fill:#292929;fill-opacity:1;stroke-width:0.597001"
+       x="41.807613"
+       y="35.674755"
+       id="text32181-7-3-3-1-3-3-0-1-8-6-3-7"
+       transform="matrix(0.89552863,0,0,0.89552863,-11.916531,-25.659999)"><tspan
          x="41.807613"
          y="35.674755"
-         id="text32181-7-3-3-1-3-3-0-2-4-2"
-         transform="matrix(0.79541601,0,0,0.77435153,-7.5798579,-21.414877)"><tspan
-           x="41.807613"
-           y="35.674755"
-           id="tspan1332"><tspan
-             style="font-family:'Reem Kufi';-inkscape-font-specification:'Reem Kufi'"
-             id="tspan1330">Native</tspan></tspan></text>
-      <rect
-         style="fill:#292929;fill-opacity:1;stroke:none;stroke-width:0.832194;stroke-dasharray:none;stroke-opacity:1"
-         id="rect21517-1-36-4-3"
-         width="21.745777"
-         height="8.8060675"
-         x="43.237999"
-         y="0.22749256"
-         ry="1.4099753e-06" />
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:'Reem Kufi';-inkscape-font-specification:'Reem Kufi';white-space:pre;inline-size:104.55;display:inline;fill:#ffffff;fill-opacity:1;stroke-width:0.597001"
+         id="tspan2413">Native</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.76815px;font-family:'Reem Kufi';-inkscape-font-specification:'Reem Kufi';white-space:pre;inline-size:104.55;display:inline;fill:#ffffff;fill-opacity:1;stroke-width:0.597001"
+       x="41.807613"
+       y="35.674755"
+       id="text32181-7-3-3-1-3-3-0-1-8-6-3-7-4"
+       transform="matrix(0.79507463,0,0,0.79507463,13.226458,-22.428818)"><tspan
          x="41.807613"
          y="35.674755"
-         id="text32181-7-3-3-1-3-3-0-1-8-6"
-         transform="matrix(0.79507463,0,0,0.79507463,13.390421,-22.456801)"><tspan
-           x="41.807613"
-           y="35.674755"
-           id="tspan1334">English</tspan></text>
-      <rect
-         style="fill:#ffffff;stroke:#292929;stroke-width:0.698477;stroke-dasharray:none;stroke-opacity:1"
-         id="rect21517-2-06-0-1-1-8"
-         width="21.279036"
-         height="8.1063023"
-         x="65.010803"
-         y="0.57734609"
-         ry="1.2979334e-06" />
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';white-space:pre;inline-size:104.55;display:inline;fill:#292929;fill-opacity:1;stroke-width:0.597001"
+         id="tspan2415">English</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.21186px;font-family:'Reem Kufi';-inkscape-font-specification:'Reem Kufi';white-space:pre;inline-size:104.55;display:inline;fill:#292929;fill-opacity:1;stroke-width:0.597001"
+       x="41.807613"
+       y="35.674755"
+       id="text32181-7-3-3-1-3-3-0-1-8-6-3-7-4-5"
+       transform="matrix(0.79507463,0,0,0.79507463,40.052603,-21.943247)"><tspan
          x="41.807613"
          y="35.674755"
-         id="text32181-7-3-3-1-3-3-0-2-4-2-0"
-         transform="matrix(0.79541601,0,0,0.77435153,40.25283,-21.409896)"><tspan
-           x="41.807613"
-           y="35.674755"
-           id="tspan1338"><tspan
-             style="font-family:'Reem Kufi';-inkscape-font-specification:'Reem Kufi'"
-             id="tspan1336">B1</tspan></tspan></text>
-      <rect
-         style="fill:#292929;fill-opacity:1;stroke:none;stroke-width:0.832194;stroke-dasharray:none;stroke-opacity:1"
-         id="rect21517-1-36-4-3-0"
-         width="21.745777"
-         height="8.8060675"
-         x="85.938972"
-         y="0.22747442"
-         ry="1.4099753e-06" />
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:'Reem Kufi';-inkscape-font-specification:'Reem Kufi';white-space:pre;inline-size:104.55;display:inline;fill:#ffffff;fill-opacity:1;stroke-width:0.597001"
+         id="tspan2417">B1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.76815px;font-family:'Reem Kufi';-inkscape-font-specification:'Reem Kufi';white-space:pre;inline-size:104.55;display:inline;fill:#ffffff;fill-opacity:1;stroke-width:0.597001"
+       x="41.807613"
+       y="35.674755"
+       id="text32181-7-3-3-1-3-3-0-1-8-6-3-7-4-2"
+       transform="matrix(0.79507463,0,0,0.79507463,56.547839,-22.404894)"><tspan
          x="41.807613"
          y="35.674755"
-         id="text32181-7-3-3-1-3-3-0-1-8-6-5"
-         transform="matrix(0.79507463,0,0,0.79507463,56.697242,-22.012532)"><tspan
-           x="41.807613"
-           y="35.674755"
-           id="tspan1340">French</tspan></text>
-      <rect
-         style="fill:#ffffff;stroke:#292929;stroke-width:0.698477;stroke-dasharray:none;stroke-opacity:1"
-         id="rect21517-2-06-0-1-1-8-1"
-         width="21.279036"
-         height="8.1063023"
-         x="107.71177"
-         y="0.57735842"
-         ry="1.2979334e-06" />
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:'Reem Kufi';-inkscape-font-specification:'Reem Kufi';white-space:pre;inline-size:104.55;display:inline;fill:#292929;fill-opacity:1;stroke-width:0.597001"
+         id="tspan2419">French</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.21186px;font-family:'Reem Kufi';-inkscape-font-specification:'Reem Kufi';white-space:pre;inline-size:104.55;display:inline;fill:#292929;fill-opacity:1;stroke-width:0.597001"
+       x="41.807613"
+       y="35.674755"
+       id="text32181-7-3-3-1-3-3-0-1-8-6-3-7-4-54"
+       transform="matrix(0.79507463,0,0,0.79507463,82.062124,-21.869151)"><tspan
          x="41.807613"
          y="35.674755"
-         id="text32181-7-3-3-1-3-3-0-2-4-2-0-1"
-         transform="matrix(0.79541601,0,0,0.77435153,82.325242,-21.344322)"><tspan
-           x="41.807613"
-           y="35.674755"
-           id="tspan1342">A2</tspan></text>
-    </g>
+         id="tspan2421">A2</tspan></text>
   </g>
 </svg>
