@@ -39,7 +39,8 @@
 </br>
 </br>
 
-<p align="justify">I'm Yarduon, from Canary Islands, Spain and I've been a developer since 2020. I describe myself as creative, self-educated, collaborative, flexible, driven, and resourceful. I have a passion for generating solutions that enhance the world and improve our quality of life.</p>
+<p align="justify">I'm Yarduon from the Canary Islands, Spain, and I've been a developer since 2020. I describe myself as a creative, self-educated, collaborative, flexible, driven, and resourceful person. My passion is to produce software solutions that enhance our quality of life and positively impact the world.</p>
+<p align="justify">I love brainstorming and exploring new ideas that continuously pop up in my mind. The excitement of moving these concepts from simple thoughts to tangible creations is second to none. Nothing beats the satisfaction of putting a vision into practice and sharing it with others.</p>
 <p align="justify">My current focus is to create exciting new projects for my portfolio, and I'm also actively looking for new adventures. I am currently developing <a href="https://github.com/yarduon/mathcard">Mathcard</a>, a beautiful pseudo-scientific calculator totally customizable.</p>
 
 <img src="./img/banners/skills.png">
