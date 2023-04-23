@@ -10,7 +10,7 @@
    inkscape:export-filename="../../../../j-alarcon/img/icons/ubuntu.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96"
-   inkscape:version="1.2 (1:1.2+202206011327+fc4e4096c5)"
+   inkscape:version="1.2.2 (1:1.2.2+202212051550+b0a8486541)"
    sodipodi:docname="office.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -28,8 +28,8 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="11.516947"
-     inkscape:cx="20.534956"
-     inkscape:cy="24.051512"
+     inkscape:cx="9.5945566"
+     inkscape:cy="24.051513"
      inkscape:window-width="1920"
      inkscape:window-height="949"
      inkscape:window-x="1920"
@@ -65,19 +65,18 @@
      inkscape:groupmode="layer"
      id="layer1">
     <g
-       id="g295666"
-       transform="matrix(1.3280592,0,0,1.3280592,19.263552,-193.00234)">
+       id="g309">
       <rect
-         style="fill:#eb3c00;fill-opacity:1;stroke:#292929;stroke-width:0.491175;stroke-opacity:1"
+         style="fill:#eb3c00;fill-opacity:1;stroke:#292929;stroke-width:0.652309;stroke-opacity:1"
          id="rect120393-1-7-3-6-2-2-6-0-9-1"
-         width="10.258561"
-         height="9.6883926"
-         x="-14.155619"
-         y="145.66228"
-         ry="1.3338249" />
+         width="13.623977"
+         height="12.866759"
+         x="0.46405241"
+         y="0.44578737"
+         ry="1.7713984" />
       <g
          id="g295660"
-         transform="matrix(0.92840199,0,0,0.92840199,19.641593,10.775964)">
+         transform="matrix(1.1672721,0,0,1.1672721,43.319992,-168.80284)">
         <g
            fill="#eb3c00"
            transform="matrix(0.17977917,0,0,0.17977917,-118.85193,32.455821)"
