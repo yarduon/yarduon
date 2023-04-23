@@ -28,15 +28,21 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="2"
-     inkscape:cx="211"
-     inkscape:cy="50.5"
+     inkscape:cx="76.75"
+     inkscape:cy="-20.5"
      inkscape:window-width="1920"
      inkscape:window-height="949"
      inkscape:window-x="1920"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1"
-     showguides="true" />
+     showguides="true">
+    <sodipodi:guide
+       position="35.065556,0.22749751"
+       orientation="0,-1"
+       id="guide12134"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
   <defs
      id="defs7861" />
   <g
@@ -44,120 +50,78 @@
      inkscape:groupmode="layer"
      id="layer1">
     <rect
-       style="fill:#292929;fill-opacity:1;stroke:none;stroke-width:0.832194;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:#292929;fill-opacity:1;stroke:none;stroke-width:1.08502;stroke-dasharray:none;stroke-opacity:1"
        id="rect21517-1-36-4"
-       width="21.745777"
+       width="36.965534"
        height="8.8060675"
-       x="0.30578768"
-       y="0.22685169"
+       x="-2.4954223e-09"
+       y="-4.3166732e-09"
        ry="1.4099753e-06" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:5.76815px;font-family:'Reem Kufi';-inkscape-font-specification:'Reem Kufi Semi-Bold';white-space:pre;inline-size:104.55;display:inline;fill:#ffffff;fill-opacity:1;stroke-width:0.597001"
        x="41.807613"
        y="35.674755"
-       id="text32181-7-3-3-1-3-3-0-1-8-6-3"
-       transform="matrix(0.79507463,0,0,0.79507463,-30.283602,-22.411115)"><tspan
+       id="text32181-7-3-3-1-3-3-0-1-8-6-3-9"
+       transform="matrix(0.79507463,0,0,0.79507463,-31.170784,-22.769745)"><tspan
          x="41.807613"
          y="35.674755"
-         id="tspan1714"><tspan
-           style="font-weight:500;-inkscape-font-specification:'Reem Kufi Medium'"
-           id="tspan1712">Spanish</tspan></tspan></text>
+         id="tspan12429"><tspan
+           style="font-weight:normal;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans'"
+           id="tspan12421">Spanish </tspan><tspan
+           style="font-weight:normal;font-family:chilanka;-inkscape-font-specification:chilanka"
+           id="tspan12423">-</tspan><tspan
+           style="font-weight:normal;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans'"
+           id="tspan12425"> </tspan><tspan
+           style="font-weight:normal;font-family:chilanka;-inkscape-font-specification:chilanka"
+           id="tspan12427">Native</tspan></tspan></text>
     <rect
-       style="fill:#ffffff;stroke:#292929;stroke-width:0.698477;stroke-dasharray:none;stroke-opacity:1"
-       id="rect21517-2-06-0-1-1"
-       width="21.279036"
-       height="8.1063023"
-       x="22.078585"
-       y="0.57673573"
-       ry="1.2979334e-06" />
-    <rect
-       style="fill:#292929;fill-opacity:1;stroke:none;stroke-width:0.832194;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:#292929;fill-opacity:1;stroke:none;stroke-width:1.0473;stroke-dasharray:none;stroke-opacity:1"
        id="rect21517-1-36-4-3"
-       width="21.745777"
+       width="34.440304"
        height="8.8060675"
-       x="43.237999"
-       y="0.22749256"
+       x="72.12986"
+       y="-4.3166732e-09"
        ry="1.4099753e-06" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:5.76815px;font-family:'Reem Kufi';-inkscape-font-specification:'Reem Kufi Semi-Bold';white-space:pre;inline-size:104.55;display:inline;fill:#ffffff;fill-opacity:1;stroke-width:0.597001"
+       x="41.807613"
+       y="35.674755"
+       id="text32181-7-3-3-1-3-3-0-1-8-6-3-9-6"
+       transform="matrix(0.79507463,0,0,0.79507463,43.875015,-22.756054)"><tspan
+         x="41.807613"
+         y="35.674755"
+         id="tspan12439"><tspan
+           style="font-weight:normal;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans'"
+           id="tspan12431">French </tspan><tspan
+           style="font-weight:normal;font-family:chilanka;-inkscape-font-specification:chilanka"
+           id="tspan12433">-</tspan><tspan
+           style="font-weight:normal;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans'"
+           id="tspan12435"> </tspan><tspan
+           style="font-weight:normal;font-family:chilanka;-inkscape-font-specification:chilanka"
+           id="tspan12437">A2</tspan></tspan></text>
     <rect
-       style="fill:#ffffff;stroke:#292929;stroke-width:0.698477;stroke-dasharray:none;stroke-opacity:1"
-       id="rect21517-2-06-0-1-1-8"
-       width="21.279036"
-       height="8.1063023"
-       x="65.010803"
-       y="0.57734609"
-       ry="1.2979334e-06" />
-    <rect
-       style="fill:#292929;fill-opacity:1;stroke:none;stroke-width:0.832194;stroke-dasharray:none;stroke-opacity:1"
-       id="rect21517-1-36-4-3-0"
-       width="21.745777"
-       height="8.8060675"
-       x="85.940254"
-       y="0.22618876"
-       ry="1.4099753e-06" />
-    <rect
-       style="fill:#ffffff;stroke:#292929;stroke-width:0.698477;stroke-dasharray:none;stroke-opacity:1"
-       id="rect21517-2-06-0-1-1-8-1"
-       width="21.279036"
-       height="8.1063023"
-       x="107.71177"
-       y="0.57735842"
-       ry="1.2979334e-06" />
+       style="fill:#ffffff;stroke:#292929;stroke-width:0.89809;stroke-dasharray:none;stroke-opacity:1"
+       id="rect21517-2-06-0-1-1"
+       width="36.067444"
+       height="7.9066901"
+       x="36.519737"
+       y="0.45033231"
+       ry="1.2659725e-06" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.37837px;font-family:'Reem Kufi';-inkscape-font-specification:'Reem Kufi';white-space:pre;inline-size:104.55;display:inline;fill:#292929;fill-opacity:1;stroke-width:0.597001"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:5.76815px;font-family:'Reem Kufi';-inkscape-font-specification:'Reem Kufi Semi-Bold';white-space:pre;inline-size:104.55;display:inline;fill:#292929;fill-opacity:1;stroke-width:0.597001"
        x="41.807613"
        y="35.674755"
-       id="text32181-7-3-3-1-3-3-0-1-8-6-3-7"
-       transform="matrix(0.56424147,0,0,0.56424147,5.9778801,-13.700123)"><tspan
+       id="text32181-7-3-3-1-3-3-0-1-8-6-3-9-7"
+       transform="matrix(0.79507463,0,0,0.79507463,8.9978478,-22.769102)"><tspan
          x="41.807613"
          y="35.674755"
-         id="tspan1718"><tspan
-           style="font-family:Alkatra;-inkscape-font-specification:Alkatra"
-           id="tspan1716">C2</tspan></tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.37837px;font-family:Alkatra;-inkscape-font-specification:Alkatra;white-space:pre;inline-size:104.55;display:inline;fill:#292929;fill-opacity:1;stroke-width:0.597001"
-       x="41.807613"
-       y="35.674755"
-       id="text32181-7-3-3-1-3-3-0-1-8-6-3-7-7"
-       transform="matrix(0.56424147,0,0,0.56424147,48.949782,-13.683638)"><tspan
-         x="41.807613"
-         y="35.674755"
-         id="tspan1720">B2</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.37837px;font-family:Alkatra;-inkscape-font-specification:Alkatra;white-space:pre;inline-size:104.55;display:inline;fill:#292929;fill-opacity:1;stroke-width:0.597001"
-       x="41.807613"
-       y="35.674755"
-       id="text32181-7-3-3-1-3-3-0-1-8-6-3-7-7-3"
-       transform="matrix(0.56424147,0,0,0.56424147,91.62429,-13.694209)"><tspan
-         x="41.807613"
-         y="35.674755"
-         id="tspan1722">A2</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.76815px;font-family:'Reem Kufi';-inkscape-font-specification:'Reem Kufi';white-space:pre;inline-size:104.55;display:inline;fill:#ffffff;fill-opacity:1;stroke-width:0.597001"
-       x="41.807613"
-       y="35.674755"
-       id="text32181-7-3-3-1-3-3-0-1-8-6-3-7-4"
-       transform="matrix(0.79507463,0,0,0.79507463,13.082,-22.428818)"><tspan
-         x="41.807613"
-         y="35.674755"
-         id="tspan1726"><tspan
-           style="font-weight:500;-inkscape-font-specification:'Reem Kufi Medium'"
-           id="tspan1724">English</tspan></tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.76815px;font-family:'Reem Kufi';-inkscape-font-specification:'Reem Kufi';white-space:pre;inline-size:104.55;display:inline;fill:#ffffff;fill-opacity:1;stroke-width:0.597001"
-       x="41.807613"
-       y="35.674755"
-       id="text32181-7-3-3-1-3-3-0-1-8-6-3-7-4-2"
-       transform="matrix(0.79507463,0,0,0.79507463,56.420958,-22.430907)"><tspan
-         x="41.807613"
-         y="35.674755"
-         id="tspan1730"><tspan
-           style="font-weight:500;-inkscape-font-specification:'Reem Kufi Medium'"
-           id="tspan1728">French</tspan></tspan></text>
+         id="tspan12445"><tspan
+           style="font-weight:normal;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans'"
+           id="tspan12441">English </tspan><tspan
+           style="font-weight:normal;font-family:chilanka;-inkscape-font-specification:chilanka"
+           id="tspan12443">- B2</tspan></tspan></text>
   </g>
 </svg>
