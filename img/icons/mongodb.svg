@@ -10,7 +10,7 @@
    inkscape:export-filename="../../../../j-alarcon/img/icons/mongodb.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96"
-   inkscape:version="1.2 (1:1.2+202206011327+fc4e4096c5)"
+   inkscape:version="1.2.2 (1:1.2.2+202212051550+b0a8486541)"
    sodipodi:docname="mongodb.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -28,8 +28,8 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="11.516947"
-     inkscape:cx="20.534956"
-     inkscape:cy="24.051512"
+     inkscape:cx="9.5945566"
+     inkscape:cy="24.051513"
      inkscape:window-width="1920"
      inkscape:window-height="949"
      inkscape:window-x="1920"
@@ -65,19 +65,18 @@
      inkscape:groupmode="layer"
      id="layer1">
     <g
-       id="g154233"
-       transform="matrix(1.3280591,0,0,1.3280591,156.80137,-179.16118)">
+       id="g392">
       <rect
-         style="fill:#ffffff;fill-opacity:1;stroke:#292929;stroke-width:0.491175;stroke-opacity:1"
+         style="fill:#ffffff;fill-opacity:1;stroke:#292929;stroke-width:0.652309;stroke-opacity:1"
          id="rect120393-1-7-3-6-2-2-6-0-1-69"
-         width="10.258561"
-         height="9.6883926"
-         x="-117.71864"
-         y="135.24019"
-         ry="1.3338249" />
+         width="13.623976"
+         height="12.866758"
+         x="0.46405467"
+         y="0.44578317"
+         ry="1.7713983" />
       <g
          id="g153379"
-         transform="matrix(0.27332558,0,0,0.27332558,-116.96261,135.71096)">
+         transform="matrix(0.34324081,0,0,0.34324081,1.7841395,1.3870353)">
         <path
            d="m 15.9,0.087 0.854,1.604 c 0.192,0.296 0.4,0.558 0.645,0.802 a 22.406,22.406 0 0 1 2.004,2.266 c 1.447,1.9 2.423,4.01 3.12,6.292 0.418,1.394 0.645,2.824 0.662,4.27 0.07,4.323 -1.412,8.035 -4.4,11.12 a 12.7,12.7 0 0 1 -1.57,1.342 c -0.296,0 -0.436,-0.227 -0.558,-0.436 a 3.589,3.589 0 0 1 -0.436,-1.255 c -0.105,-0.523 -0.174,-1.046 -0.14,-1.586 V 24.262 C 16.057,24.21 15.796,0.21 15.9,0.087 Z"
            fill="#599636"
