@@ -3,8 +3,8 @@
 
 <svg
    width="447"
-   height="40"
-   viewBox="0 0 118.26874 10.583333"
+   height="43"
+   viewBox="0 0 118.26874 11.377083"
    version="1.1"
    id="svg7864"
    inkscape:version="1.2.2 (1:1.2.2+202212051550+b0a8486541)"
@@ -27,27 +27,16 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="1.4142136"
-     inkscape:cx="162.63456"
-     inkscape:cy="-6.0104076"
+     inkscape:zoom="2"
+     inkscape:cx="185.75"
+     inkscape:cy="3.5"
      inkscape:window-width="1920"
-     inkscape:window-height="976"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-height="949"
+     inkscape:window-x="1920"
+     inkscape:window-y="27"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1"
-     showguides="true">
-    <sodipodi:guide
-       position="40.052129,5.9531245"
-       orientation="1,0"
-       id="guide65698"
-       inkscape:locked="false" />
-    <sodipodi:guide
-       position="78.18722,6.7315464"
-       orientation="1,0"
-       id="guide65787"
-       inkscape:locked="false" />
-  </sodipodi:namedview>
+     showguides="true" />
   <defs
      id="defs7861" />
   <g
@@ -55,76 +44,76 @@
      inkscape:groupmode="layer"
      id="layer1">
     <rect
-       style="fill:#292929;fill-opacity:1;stroke:none;stroke-width:1.23814;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:#292929;fill-opacity:1;stroke:none;stroke-width:1.28373;stroke-dasharray:none;stroke-opacity:1"
        id="rect21517-1-36-4"
        width="40.052132"
-       height="10.583333"
+       height="11.377084"
        x="-2.4954223e-09"
        y="-4.3166732e-09"
-       ry="1.6945406e-06" />
+       ry="1.8216313e-06" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:5.32445px;font-family:'Reem Kufi';-inkscape-font-specification:'Reem Kufi Semi-Bold';white-space:pre;inline-size:104.55;display:inline;fill:#ffffff;fill-opacity:1;stroke-width:0.597001"
        x="41.807613"
        y="35.674755"
        id="text32181-7-3-3-1-3-3-0-1-8-6-3-9"
-       transform="matrix(0.79507463,0,0,0.79507463,-29.16989,-21.972751)"><tspan
+       transform="matrix(0.79507463,0,0,0.79507463,-29.16989,-21.575876)"><tspan
          x="41.807613"
          y="35.674755"
-         id="tspan68044"><tspan
+         id="tspan399"><tspan
            style="font-weight:bold;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans Bold'"
-           id="tspan68038">Spanish</tspan><tspan
+           id="tspan393">Spanish</tspan><tspan
            style="font-weight:normal;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans'"
-           id="tspan68040"> -</tspan><tspan
+           id="tspan395"> -</tspan><tspan
            style="font-weight:normal;-inkscape-font-specification:'Reem Kufi'"
-           id="tspan68042"> Native</tspan></tspan></text>
+           id="tspan397"> Native</tspan></tspan></text>
     <rect
-       style="fill:#292929;fill-opacity:1;stroke:none;stroke-width:1.23814;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:#292929;fill-opacity:1;stroke:none;stroke-width:1.28373;stroke-dasharray:none;stroke-opacity:1"
        id="rect21517-1-36-4-2"
        width="40.052132"
-       height="10.583334"
+       height="11.377084"
        x="78.186195"
        y="-1.5894572e-07"
-       ry="1.6945406e-06" />
+       ry="1.8216311e-06" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:5.32445px;font-family:'Reem Kufi';-inkscape-font-specification:'Reem Kufi Semi-Bold';white-space:pre;inline-size:104.55;display:inline;fill:#ffffff;fill-opacity:1;stroke-width:0.597001"
        x="41.807613"
        y="35.674755"
        id="text32181-7-3-3-1-3-3-0-1-8-6-3-9-6"
-       transform="matrix(0.79507463,0,0,0.79507463,53.738647,-21.949324)"><tspan
+       transform="matrix(0.79507463,0,0,0.79507463,53.738647,-21.505672)"><tspan
          x="41.807613"
          y="35.674755"
-         id="tspan68052"><tspan
+         id="tspan407"><tspan
            style="font-weight:bold;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans Bold'"
-           id="tspan68046">French</tspan><tspan
+           id="tspan401">French</tspan><tspan
            style="font-weight:normal;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans'"
-           id="tspan68048"> </tspan><tspan
+           id="tspan403"> </tspan><tspan
            style="font-weight:normal;-inkscape-font-specification:'Reem Kufi'"
-           id="tspan68050">- A2</tspan></tspan></text>
+           id="tspan405">- A2</tspan></tspan></text>
     <rect
-       style="fill:#ffffff;stroke:#292929;stroke-width:1.0295;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:#ffffff;stroke:#292929;stroke-width:1.06902;stroke-dasharray:none;stroke-opacity:1"
        id="rect21517-2-06-0-1-1"
-       width="39.231472"
-       height="9.5518713"
-       x="39.536724"
-       y="0.51573098"
-       ry="1.5293894e-06" />
+       width="39.204624"
+       height="10.306113"
+       x="39.517021"
+       y="0.53548491"
+       ry="1.6501542e-06" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:5.32445px;font-family:'Reem Kufi';-inkscape-font-specification:'Reem Kufi Semi-Bold';white-space:pre;inline-size:104.55;display:inline;fill:#292929;fill-opacity:1;stroke-width:0.597001"
        x="41.807613"
        y="35.674755"
        id="text32181-7-3-3-1-3-3-0-1-8-6-3-9-7"
-       transform="matrix(0.79507463,0,0,0.79507463,14.545206,-21.972751)"><tspan
+       transform="matrix(0.79507463,0,0,0.79507463,14.512079,-21.575876)"><tspan
          x="41.807613"
          y="35.674755"
-         id="tspan68060"><tspan
+         id="tspan415"><tspan
            style="font-weight:bold;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans Bold'"
-           id="tspan68054">English</tspan><tspan
+           id="tspan409">English</tspan><tspan
            style="font-weight:normal;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans'"
-           id="tspan68056"> </tspan><tspan
+           id="tspan411"> </tspan><tspan
            style="font-weight:normal;-inkscape-font-specification:'Reem Kufi'"
-           id="tspan68058">- B2</tspan></tspan></text>
+           id="tspan413">- B2</tspan></tspan></text>
   </g>
 </svg>
