@@ -1,36 +1,12 @@
-<div>
-    <a href="https://yarduon.com">
-        <img src="https://img.shields.io/badge/website-292929?style=for-the-badge&logo=firefox&logoColor=white">
-    </a>
-    &nbsp;
-     <a href="mailto: contact@yarduon.com">
-        <img src="https://img.shields.io/badge/Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-    </a>
-    &nbsp;
-    <a href="https://www.linkedin.com/in/yarduon">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-    </a>
-    &nbsp;
-    <a href="https://twitter.com/yarduon">
-        <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
-    </a>
-    &nbsp;
-     <a href="https://www.instagram.com/yarduon/">
-        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-    </a>
-    &nbsp;
-    <a href="https://www.facebook.com/yarduon">
-        <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
-    </a>
-    &nbsp;
-    <a href="https://ko-fi.com/yarduon">
-        <img src="https://img.shields.io/badge/support&nbsp;me-F16061?style=for-the-badge&logo=ko-fi&logoColor=white">
-    </a>
-    &nbsp;
-    <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fyarduon%2Fyarduon&label=VIEWS&labelColor=%23292929&countColor=%23f0a85d">
-</div>
+[<img src="https://img.shields.io/badge/website-292929?style=for-the-badge&logo=firefox&logoColor=white">](https://yarduon.com)
+[<img src="https://img.shields.io/badge/Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white">](https://www.google.com/intl/en/gmail)
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/yarduon)
+[<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/yarduon)
+[<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/yarduon/)
+[<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/yarduon)
+[<img src="https://img.shields.io/badge/support&nbsp;me-F16061?style=for-the-badge&logo=ko-fi&logoColor=white">](https://ko-fi.com/yarduon)
+<img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fyarduon%2Fyarduon&label=VIEWS&labelColor=%23292929&countColor=%23f0a85d">
 
-</br>
 <img src="./img/banners/main.png">
 <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Merriweather+Sans&size=60&duration=9000&color=FFFFFF&background=292929&center=true&vCenter=true&width=1920&height=200&lines=I'm+a+developer++and+a+creative;Always+learning+and+striving+for+goals;Let's+work+together++and+make+the+world+better!+;Thank+you+for+your+visit!">
