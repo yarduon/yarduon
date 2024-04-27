@@ -18,7 +18,7 @@
 <p align="justify">I'm Yarduon from the Canary Islands, Spain, and I've been a developer since 2020. I describe myself as a creative, self-educated, collaborative, flexible, driven, and resourceful person. My passion is to produce software solutions that enhance our quality of life and positively impact the world.</p>
 <p align="justify">I love brainstorming and exploring new ideas that continuously pop up in my mind. The excitement of moving these concepts from simple thoughts to tangible creations is second to none. Nothing beats the satisfaction of putting a vision into practice and sharing it with others.</p>
 <p align="justify">My current focus is to create exciting new projects for my portfolio, and I'm also actively looking for new adventures. I am currently developing <a href="https://github.com/yarduon/mathcard">Mathcard</a>, a beautiful pseudo-scientific calculator totally customizable.</p>
-<br>
+</br>
 
 <img src="./img/banners/skills.png">
 
@@ -45,6 +45,7 @@
 <div align="center">
     <img src="./img/icons/languages.svg">
 </div> 
+</br>
 </br>
 
 <img src="./img/banners/projects.png">
@@ -77,6 +78,7 @@
 <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
     <img width="1920px" alt="Most used languages" src="https://github-readme-activity-graph.vercel.app/graph?username=yarduon&bg_color=292929ff&color=FFFFFF&line=f0a85dff&point=f0a85dff&hide_title=true&hide_border=true">
 </a>
+</br>
 </br>
 </br>
 
