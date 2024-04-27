@@ -18,7 +18,7 @@
 <p align="justify">I love brainstorming and exploring new ideas that continuously pop up in my mind. The excitement of moving these concepts from simple thoughts to tangible creations is second to none. Nothing beats the satisfaction of putting a vision into practice and sharing it with others.</p>
 <p align="justify">My current focus is to create exciting new projects for my portfolio, and I'm also actively looking for new adventures. I am currently developing <a href="https://github.com/yarduon/mathcard">Mathcard</a>, a beautiful pseudo-scientific calculator totally customizable.</p>
 </br>
-</br>
+
 
 <img src="./img/banners/skills.png">
 
