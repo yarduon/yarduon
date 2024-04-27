@@ -11,13 +11,13 @@
 <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Merriweather+Sans&size=60&duration=9000&color=FFFFFF&background=292929&center=true&vCenter=true&width=1920&height=200&lines=I'm+a+developer++and+a+creative;Always+learning+and+striving+for+goals;Let's+work+together++and+make+the+world+better!+;Thank+you+for+your+visit!">
 </a>
-
 </br>
 </br>
 
 <p align="justify">I'm Yarduon from the Canary Islands, Spain, and I've been a developer since 2020. I describe myself as a creative, self-educated, collaborative, flexible, driven, and resourceful person. My passion is to produce software solutions that enhance our quality of life and positively impact the world.</p>
 <p align="justify">I love brainstorming and exploring new ideas that continuously pop up in my mind. The excitement of moving these concepts from simple thoughts to tangible creations is second to none. Nothing beats the satisfaction of putting a vision into practice and sharing it with others.</p>
 <p align="justify">My current focus is to create exciting new projects for my portfolio, and I'm also actively looking for new adventures. I am currently developing <a href="https://github.com/yarduon/mathcard">Mathcard</a>, a beautiful pseudo-scientific calculator totally customizable.</p>
+</br>
 </br>
 
 <img src="./img/banners/skills.png">
