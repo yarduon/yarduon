@@ -18,32 +18,34 @@
 <p align="justify">I'm Yarduon from the Canary Islands, Spain, and I've been a developer since 2020. I describe myself as a creative, self-educated, collaborative, flexible, driven, and resourceful person. My passion is to produce software solutions that enhance our quality of life and positively impact the world.</p>
 <p align="justify">I love brainstorming and exploring new ideas that continuously pop up in my mind. The excitement of moving these concepts from simple thoughts to tangible creations is second to none. Nothing beats the satisfaction of putting a vision into practice and sharing it with others.</p>
 <p align="justify">My current focus is to create exciting new projects for my portfolio, and I'm also actively looking for new adventures. I am currently developing <a href="https://github.com/yarduon/mathcard">Mathcard</a>, a beautiful pseudo-scientific calculator totally customizable.</p>
+<br>
 
 <img src="./img/banners/skills.png">
 
-[<img src="./img/icons/html.svg">](https://developer.mozilla.org/en-US/docs/Web/HTML)&nbsp;
-[<img src="./img/icons/css.svg">](https://developer.mozilla.org/en-US/docs/Web/CSS)&nbsp;
-[<img src="./img/icons/js.svg">](https://www.javascript.com/)&nbsp;
-[<img src="./img/icons/node.svg">](https://nodejs.org/en/)&nbsp;
-[<img src="./img/icons/express.svg">](https://expressjs.com/)&nbsp;
-[<img src="./img/icons/react.svg">](https://reactjs.org/)&nbsp;
-[<img src="./img/icons/mongodb.svg">](https://www.mongodb.com/)&nbsp;
-[<img src="./img/icons/sql.svg">](https://developer.mozilla.org/en-US/docs/Glossary/SQL)&nbsp;
-[<img src="./img/icons/git.svg">](https://git-scm.com/)&nbsp;
-[<img src="./img/icons/docker.svg">](https://www.docker.com/)&nbsp;
-[<img src="./img/icons/filezilla.svg">](https://filezilla-project.org/)&nbsp;
-[<img src="./img/icons/vs.svg">](https://expressjs.com/)&nbsp;
-[<img src="./img/icons/windows.svg">](https://www.microsoft.com/en-us/windows)&nbsp;
-[<img src="./img/icons/ubuntu.svg">](https://ubuntu.com/)&nbsp;
-[<img src="./img/icons/office.svg">](https://www.office.com/)&nbsp;
-[<img src="./img/icons/audacity.svg">](https://www.audacityteam.org/)&nbsp;
-[<img src="./img/icons/inkscape.svg">](https://inkscape.org/")&nbsp;
-[<img src="./img/icons/gimp.svg">](https://www.gimp.org/)&nbsp;
-
+[<img src="./img/icons/html.svg">](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[<img src="./img/icons/css.svg">](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[<img src="./img/icons/js.svg">](https://www.javascript.com/)
+[<img src="./img/icons/node.svg">](https://nodejs.org/en/)
+[<img src="./img/icons/express.svg">](https://expressjs.com/)
+[<img src="./img/icons/react.svg">](https://reactjs.org/)
+[<img src="./img/icons/mongodb.svg">](https://www.mongodb.com/)
+[<img src="./img/icons/sql.svg">](https://developer.mozilla.org/en-US/docs/Glossary/SQL)
+[<img src="./img/icons/git.svg">](https://git-scm.com/)
+[<img src="./img/icons/docker.svg">](https://www.docker.com/)
+[<img src="./img/icons/filezilla.svg">](https://filezilla-project.org/)
+[<img src="./img/icons/vs.svg">](https://expressjs.com/)
+[<img src="./img/icons/windows.svg">](https://www.microsoft.com/en-us/windows)
+[<img src="./img/icons/ubuntu.svg">](https://ubuntu.com/)
+[<img src="./img/icons/office.svg">](https://www.office.com/)
+[<img src="./img/icons/audacity.svg">](https://www.audacityteam.org/)
+[<img src="./img/icons/inkscape.svg">](https://inkscape.org/")
+[<img src="./img/icons/gimp.svg">](https://www.gimp.org/)
 </br>
+
 <div align="center">
     <img src="./img/icons/languages.svg">
 </div> 
+</br>
 </br>
 
 <img src="./img/banners/projects.png">
