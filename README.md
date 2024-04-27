@@ -42,7 +42,7 @@
 [<img src="./img/icons/gimp.svg">](https://www.gimp.org/)
 </br>
 
-<div align="center">
+<div align="left">
     <img src="./img/icons/languages.svg">
 </div> 
 </br>
@@ -66,6 +66,7 @@
     <img src="./img/banners/mathcard.png">
 </a>
 <p align="center">Beautiful pseudo-scientific calculator totally customizable</p>
+</br>
 </br>
 
 <img src="./img/banners/stats.png">
