@@ -20,62 +20,26 @@
 <p align="justify">My current focus is to create exciting new projects for my portfolio, and I'm also actively looking for new adventures. I am currently developing <a href="https://github.com/yarduon/mathcard">Mathcard</a>, a beautiful pseudo-scientific calculator totally customizable.</p>
 
 <img src="./img/banners/skills.png">
-<div align="center">
-    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-        <img src="./img/icons/html.svg">
-    </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-        <img src="./img/icons/css.svg">
-    </a>
-    <a href="https://www.javascript.com/">
-        <img src="./img/icons/js.svg">
-    </a>
-    <a href="https://nodejs.org/en/">
-        <img src="./img/icons/node.svg">
-    </a>
-    <a href="https://expressjs.com/">
-        <img src="./img/icons/express.svg">
-    </a>
-    <a href="https://reactjs.org/">
-        <img src="./img/icons/react.svg">
-    </a>    
-    <a href="https://www.mongodb.com/">
-        <img src="./img/icons/mongodb.svg">
-    </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Glossary/SQL">
-        <img src="./img/icons/sql.svg">
-    </a>
-    <a href="https://git-scm.com/">
-        <img src="./img/icons/git.svg">
-    </a>
-    <a href="https://www.docker.com/">
-        <img src="./img/icons/docker.svg">
-    </a>
-      <a href="https://filezilla-project.org/">
-        <img src="./img/icons/filezilla.svg">
-    </a>
-    <a href="https://visualstudio.microsoft.com/es/">
-        <img src="./img/icons/vs.svg">
-    </a>
-    <a href="https://www.microsoft.com/en-us/windows">
-        <img src="./img/icons/windows.svg">
-    </a>    
-    <a href="https://ubuntu.com/">
-        <img src="./img/icons/ubuntu.svg">
-    </a>
-    <a href="https://www.office.com/">
-        <img src="./img/icons/office.svg">
-    </a>
-    <a href="https://www.audacityteam.org/">
-        <img src="./img/icons/audacity.svg">
-    </a>
-    <a href="https://inkscape.org/">
-        <img src="./img/icons/inkscape.svg">
-    </a>
-    <a href="https://www.gimp.org/">
-        <img src="./img/icons/gimp.svg">
-    </a>    
-</div>
+
+[<img src="./img/icons/html.svg">](https://developer.mozilla.org/en-US/docs/Web/HTML)&nbsp;
+[<img src="./img/icons/css.svg">](https://developer.mozilla.org/en-US/docs/Web/CSS)&nbsp;
+[<img src="./img/icons/js.svg">](https://www.javascript.com/)&nbsp;
+[<img src="./img/icons/node.svg">](https://nodejs.org/en/)&nbsp;
+[<img src="./img/icons/express.svg">](https://expressjs.com/)&nbsp;
+[<img src="./img/icons/react.svg">](https://reactjs.org/)&nbsp;
+[<img src="./img/icons/mongodb.svg">](https://www.mongodb.com/)&nbsp;
+[<img src="./img/icons/sql.svg">](https://developer.mozilla.org/en-US/docs/Glossary/SQL)&nbsp;
+[<img src="./img/icons/git.svg">](https://git-scm.com/)&nbsp;
+[<img src="./img/icons/docker.svg">](https://www.docker.com/)&nbsp;
+[<img src="./img/icons/filezilla.svg">](https://filezilla-project.org/)&nbsp;
+[<img src="./img/icons/vs.svg">](https://expressjs.com/)&nbsp;
+[<img src="./img/icons/windows.svg">](https://www.microsoft.com/en-us/windows)&nbsp;
+[<img src="./img/icons/ubuntu.svg">](https://ubuntu.com/)&nbsp;
+[<img src="./img/icons/office.svg">](https://www.office.com/)&nbsp;
+[<img src="./img/icons/audacity.svg">](https://www.audacityteam.org/)&nbsp;
+[<img src="./img/icons/inkscape.svg">](https://inkscape.org/")&nbsp;
+[<img src="./img/icons/gimp.svg">](https://www.gimp.org/)&nbsp;
+
 </br>
 <div align="center">
     <img src="./img/icons/languages.svg">
