@@ -46,10 +46,9 @@
     <img src="./img/icons/languages.svg">
 </div> 
 </br>
-</br>
 
 <img src="./img/banners/projects.png">
-</br>
+
 <a href="https://github.com/yarduon/reoneo">
     <img src="./img/banners/reoneo.png">
 </a>
@@ -70,8 +69,7 @@
 
 <img src="./img/banners/stats.png">
 <a href="https://github.com/anuraghazra/github-readme-stats">
-    <!-- include_all_commits=true -->
-    <img width="1920px" src="https://github-readme-stats.vercel.app/api?username=yarduon&hide=contribs,prs&title_color=f0a85dff&text_color=FFFFFF&hide_border=true&bg_color=292929ff&border_radius=0">
+    <img width="1920px" src="https://github-readme-stats.vercel.app/api?username=yarduon&hide=contribs,prs&title_color=f0a85dff&text_color=FFFFFF&hide_border=true&bg_color=292929ff&border_radius=0&include_all_commits=true">
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats"> 
     <img width="1920px" alt="Github stats" src="https://github-readme-stats.vercel.app/api/top-langs?username=yarduon&layout=compact&title_color=f0a85dff&text_color=FFFFFF&hide_border=true&bg_color=292929ff&border_radius=0">
