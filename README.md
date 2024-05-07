@@ -50,7 +50,7 @@
 <img alt="Projects" src="./img/banners/projects.png">
 
 <a href="https://github.com/yarduon/reoneo">
-    <img lt="View Reoneo repository" src="./img/banners/reoneo.png">
+    <img alt="View Reoneo repository" src="./img/banners/reoneo.png">
 </a>
 <p align="center">Colorful counter to quantify scores of different teams with a timer</p>
 <a href="https://github.com/yarduon/beefriends">
