@@ -1,10 +1,10 @@
 [<img alt="Visit my website" src="https://img.shields.io/badge/website-292929?style=for-the-badge&logo=firefox&logoColor=white" width="104px" height="28px">](https://yarduon.com)&nbsp;
-[<img alt="Contact me" src="https://img.shields.io/badge/Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="104px" height="28px">](mailto:contact@yarduon.com)&nbsp;
-[<img alt="LinkedIn profile" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="104px" height="28px">](https://www.linkedin.com/in/yarduon)&nbsp;
+[<img alt="Contact me" src="https://img.shields.io/badge/Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="105px" height="28px">](mailto:contact@yarduon.com)&nbsp;
+[<img alt="LinkedIn profile" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="111px" height="28px">](https://www.linkedin.com/in/yarduon)&nbsp;
 [<img alt="Twitter profile" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" width="104px" height="28px">](https://twitter.com/yarduon)&nbsp;
-[<img alt="Instagram profile" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" width="104px" height="28px">](https://www.instagram.com/yarduon/)&nbsp;
-[<img alt="Facebook profile" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" width="104px" height="28px">](https://www.facebook.com/yarduon)&nbsp;
-[<img alt="Support me" src="https://img.shields.io/badge/support&nbsp;me-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" width="104px" height="28px">](https://ko-fi.com/yarduon)&nbsp;
+[<img alt="Instagram profile" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" width="123px" height="28px">](https://www.instagram.com/yarduon/)&nbsp;
+[<img alt="Facebook profile" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" width="114px" height="28px">](https://www.facebook.com/yarduon)&nbsp;
+[<img alt="Support me" src="https://img.shields.io/badge/support&nbsp;me-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" width="129px" height="28px">](https://ko-fi.com/yarduon)&nbsp;
 <img alt="Views counter" src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fyarduon%2Fyarduon&label=VIEWS&labelColor=%23292929&countColor=%23f0a85d" width="104px" height="28px">
 
 <img alt="Main banner" src="./img/banners/main.png">
