@@ -5,7 +5,7 @@
 [<img alt="Instagram profile" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" width="123px" height="28px">](https://www.instagram.com/yarduon/)&nbsp;
 [<img alt="Facebook profile" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" width="114px" height="28px">](https://www.facebook.com/yarduon)&nbsp;
 [<img alt="Support me" src="https://img.shields.io/badge/support&nbsp;me-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" width="129px" height="28px">](https://ko-fi.com/yarduon)&nbsp;
-<img alt="Views counter" src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fyarduon%2Fyarduon&label=VIEWS&labelColor=%23292929&countColor=%23f0a85d" width="104px" height="28px">
+<img alt="Views counter" src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fyarduon%2Fyarduon&label=VIEWS&labelColor=%23292929&countColor=%23f0a85d" width="122px" height="28px">
 
 <img alt="Main banner" src="./img/banners/main.png">
 <a href="https://github.com/DenverCoder1/readme-typing-svg">
@@ -21,24 +21,24 @@
 
 <img alt="Skills" src="./img/banners/skills.png">
 
-[<img alt="HTML icon" src="./img/icons/html.svg">](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[<img alt="CSS icon" src="./img/icons/css.svg">](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[<img alt="JavaScript icon" src="./img/icons/js.svg">](https://www.javascript.com)
-[<img alt="Node.js icon" src="./img/icons/node.svg">](https://nodejs.org/en)
-[<img alt="Express.js icon" src="./img/icons/express.svg">](https://expressjs.com)
-[<img alt="React icon" src="./img/icons/react.svg">](https://reactjs.org)
-[<img alt="MongoDB icon" src="./img/icons/mongodb.svg">](https://www.mongodb.com)
-[<img alt="SQL icon" src="./img/icons/sql.svg">](https://developer.mozilla.org/en-US/docs/Glossary/SQL)
-[<img alt="Git icon" src="./img/icons/git.svg">](https://git-scm.com)
-[<img alt="Docker icon" src="./img/icons/docker.svg">](https://www.docker.com)
-[<img alt="Filezilla icon" src="./img/icons/filezilla.svg">](https://filezilla-project.org)
-[<img alt="Visual Studio Code icon" src="./img/icons/vs.svg">](https://code.visualstudio.com)
-[<img alt="Windows icon" src="./img/icons/windows.svg">](https://www.microsoft.com/en-us/windows)
-[<img alt="Ubuntu icon" src="./img/icons/ubuntu.svg">](https://ubuntu.com)
-[<img alt="Microsoft Office icon" src="./img/icons/office.svg">](https://www.office.com)
-[<img alt="Audacity icon" src="./img/icons/audacity.svg">](https://www.audacityteam.org)
-[<img alt="Inkscape icon" src="./img/icons/inkscape.svg">](https://inkscape.org)
-[<img alt="GIMP icon" src="./img/icons/gimp.svg">](https://www.gimp.org)
+[<img alt="HTML icon" src="./img/icons/html.svg" width="55px" height="52px">](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[<img alt="CSS icon" src="./img/icons/css.svg" width="55px" height="52px">](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[<img alt="JavaScript icon" src="./img/icons/js.svg" width="55px" height="52px">](https://www.javascript.com)
+[<img alt="Node.js icon" src="./img/icons/node.svg" width="55px" height="52px">](https://nodejs.org/en)
+[<img alt="Express.js icon" src="./img/icons/express.svg" width="55px" height="52px">](https://expressjs.com)
+[<img alt="React icon" src="./img/icons/react.svg" width="55px" height="52px">](https://reactjs.org)
+[<img alt="MongoDB icon" src="./img/icons/mongodb.svg" width="55px" height="52px">](https://www.mongodb.com)
+[<img alt="SQL icon" src="./img/icons/sql.svg" width="55px" height="52px">](https://developer.mozilla.org/en-US/docs/Glossary/SQL)
+[<img alt="Git icon" src="./img/icons/git.svg" width="55px" height="52px">](https://git-scm.com)
+[<img alt="Docker icon" src="./img/icons/docker.svg" width="55px" height="52px">](https://www.docker.com)
+[<img alt="Filezilla icon" src="./img/icons/filezilla.svg" width="55px" height="52px">](https://filezilla-project.org)
+[<img alt="Visual Studio Code icon" src="./img/icons/vs.svg" width="55px" height="52px">](https://code.visualstudio.com)
+[<img alt="Windows icon" src="./img/icons/windows.svg" width="55px" height="52px">](https://www.microsoft.com/en-us/windows)
+[<img alt="Ubuntu icon" src="./img/icons/ubuntu.svg" width="55px" height="52px">](https://ubuntu.com)
+[<img alt="Microsoft Office icon" src="./img/icons/office.svg" width="55px" height="52px">](https://www.office.com)
+[<img alt="Audacity icon" src="./img/icons/audacity.svg" width="55px" height="52px">](https://www.audacityteam.org)
+[<img alt="Inkscape icon" src="./img/icons/inkscape.svg" width="55px" height="52px">](https://inkscape.org)
+[<img alt="GIMP icon" src="./img/icons/gimp.svg" width="55px" height="52px">](https://www.gimp.org)
 </br>
 
 <div align="left">
